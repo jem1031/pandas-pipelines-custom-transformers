@@ -1,0 +1,530 @@
+application_date,permit_status,permit_type,event_category,event_sub_category,name_of_event,year_month_app,event_start_date,event_end_date,event_location_park,event_location_neighborhood,council_district,precinct,organization,attendance
+12/09/2015 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,See Jane Run Women's Half Marathon and 5K,S16JY044,07/10/2016 12:00:00 AM,07/10/2016 12:00:00 AM,Gas Works Park,Multiple Neighborhoods,3,North,See Jane Run,4500.0
+01/07/2016 12:00:00 AM,Complete,Special Event,Commercial,,Capitol Hill Block Party,S16JY046,07/22/2016 12:00:00 AM,07/24/2016 12:00:00 AM,,Capitol Hill,3,East,Independent Event Solutions,27000.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (7.09),S16JY074,07/09/2016 12:00:00 AM,07/09/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (7.13),S16JY075,07/13/2016 12:00:00 AM,07/13/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (7.31),S16JY076,07/31/2016 12:00:00 AM,07/31/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+02/01/2016 12:00:00 AM,Complete,Special Event,Community,,West Seattle Grand Parade,S16JY098,07/23/2016 12:00:00 AM,07/23/2016 12:00:00 AM,,West Seattle,1,West,Rotary Foundation of West Seattle,3500.0
+02/02/2016 12:00:00 AM,Complete,Special Event,Athletic,Other,The Four-Twenty Games Seattle,S16JY106,07/31/2016 12:00:00 AM,07/31/2016 12:00:00 AM,Magnuson Park,Sand Point,4,North,The Four-Twenty Games,600.0
+02/16/2016 12:00:00 AM,Complete,Special Event,Community,,Wallingford Family Parade,S16JY112,07/09/2016 12:00:00 AM,07/09/2016 12:00:00 AM,,Wallingford,4,North,Wallingford Chamber of Commerce,1525.0
+02/08/2016 12:00:00 AM,Complete,Special Event,Community,,Wedgwood Art Festival,S16JY113,07/09/2016 12:00:00 AM,07/10/2016 12:00:00 AM,,Wedgwood,5,North,"Strazzanti Enterprisies, LLC",4148.0
+02/11/2016 12:00:00 AM,Cancelled,Special Event,Athletic,Other,Bat 'N' Rouge,S16JY123,07/24/2016 12:00:00 AM,07/24/2016 12:00:00 AM,,Capitol Hill,3,East,Seattle Area Support Groups,330.0
+02/22/2016 12:00:00 AM,Complete,Special Event,Community,,Greenwood Seafair Parade,S16JY149,07/27/2016 12:00:00 AM,07/27/2016 12:00:00 AM,,Greenwood,6,North,Phinney Neighborhood Assn,4500.0
+03/01/2016 12:00:00 AM,Complete,Special Event,Commercial,,Uwajimaya Natsu Matsuri Summer Food Festival,S16JY153,07/09/2016 12:00:00 AM,07/10/2016 12:00:00 AM,,International District,2,West,Uwajimaya Grocery Store,595.0
+03/08/2016 12:00:00 AM,Complete,Special Event,Community,,Bite of Seattle (Street Use/No Parking),S16JY165,07/11/2016 12:00:00 AM,07/18/2016 12:00:00 AM,,Queen Anne,4,West,Festivals Inc,1150.0
+03/10/2016 12:00:00 AM,Complete,Special Event,Community,,FREE Bike Party,S16JY166,07/03/2016 12:00:00 AM,07/03/2016 12:00:00 AM,,Ballard,6,North,"Seattle Bike Blog, LLC",770.0
+03/16/2016 12:00:00 AM,Complete,Special Event,Community,,Bon Odori Festival,S16JY180,07/16/2016 12:00:00 AM,07/17/2016 12:00:00 AM,,International District,2,West,Seattle Buddhist Church,4900.0
+03/18/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Goodwill Refuse to Abuse 5K at Safeco Field,S16JY191,07/09/2016 12:00:00 AM,07/09/2016 12:00:00 AM,,Sodo,2,South,Washington State Coalition Against Domestic Violence,2000.0
+03/22/2016 12:00:00 AM,Complete,Special Event,Community,,Alki Art Fair,S16JY199,07/23/2016 12:00:00 AM,07/24/2016 12:00:00 AM,,West Seattle,1,West,Alki Art Fair,8180.0
+03/28/2016 12:00:00 AM,Complete,Special Event,Community,,Go Klondike Legacy Day 2016,S16JY209,07/17/2016 12:00:00 AM,07/17/2016 12:00:00 AM,,Pioneer Square,7,South,"Friends of the Klondike Corridor, Inc.",820.0
+03/30/2016 12:00:00 AM,Complete,Special Event,Community,,Lake Union Wooden Boat Festival,S16JY218,07/02/2016 12:00:00 AM,07/04/2016 12:00:00 AM,,South Lake Union,3,West,The Center for Wooden Boats,9750.0
+03/31/2016 12:00:00 AM,Complete,Special Event,Community,,Craig Wilson Queen Anne Days,S16JY221,07/09/2016 12:00:00 AM,07/09/2016 12:00:00 AM,,Queen Anne,4,West,The Queen AnneCamber of Commerce,530.0
+12/16/2015 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,F5 St. Patrick's Day Dash,S16MR027,03/13/2016 12:00:00 AM,03/13/2016 12:00:00 AM,,Queen Anne,7,West,Detlef Schrempf Foundation,10300.0
+12/28/2015 12:00:00 AM,Complete,Special Event,Community,,St. Patrick's Day Parade,S16MR038,03/12/2016 12:00:00 AM,03/12/2016 12:00:00 AM,,Downtown,7,West,Irish Heritage Club,4700.0
+12/28/2015 12:00:00 AM,Complete,Special Event,Community,,Green Stripe,S16MR039,03/11/2016 12:00:00 AM,03/11/2016 12:00:00 AM,,Downtown,7,West,Irish Heritage Club,150.0
+12/11/2015 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Hot Chocolate 15K/5K,S16MR043,03/06/2016 12:00:00 AM,03/06/2016 12:00:00 AM,Seattle Center,Queen Anne,4;6;7,West,Ram Racing,7200.0
+01/20/2016 12:00:00 AM,Complete,Special Event,Commercial,,Kells 34th Annual St.  Patrick's Day Festival,S16MR057,03/17/2016 12:00:00 AM,03/17/2016 12:00:00 AM,,Downtown,7,West,Kells Irish Restaurant & Bar,290.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (3.06),S16MR066,03/06/2016 12:00:00 AM,03/06/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+12/15/2015 12:00:00 AM,Complete,Special Event,Athletic,Cycling,Emerald City Bicycle Ride,S16AP025,04/03/2016 12:00:00 AM,04/03/2016 12:00:00 AM,,University District,2;3,North,Cascade Bicycle Club,6300.0
+12/21/2015 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Seattle Magazine Brunch Run,S16AP033,04/02/2016 12:00:00 AM,04/02/2016 12:00:00 AM,Magnuson Park,Sand Point,4,North,Run for Good Racing Co./5 Focus,900.0
+01/08/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Walk MS/Run MS,S16AP049,04/10/2016 12:00:00 AM,04/10/2016 12:00:00 AM,,University District,4,North,National MS Society - Greater NW Chapter,4000.0
+01/12/2016 12:00:00 AM,Complete,Special Event,Athletic,Other,Seattle Urban Trek,S16AP053,04/23/2016 12:00:00 AM,04/23/2016 12:00:00 AM,Waterfront park,Downtown,7,West,"Seattle Sports Commission, a department of Visit Seattle",550.0
+01/15/2016 12:00:00 AM,Complete,Special Event,Commercial,,WE Day Seattle 2016,S16AP054,04/20/2016 12:00:00 AM,04/20/2016 12:00:00 AM,,Queen Anne,7,West,Free the Children/WE Day,26200.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (4.02),S16AP068,04/02/2016 12:00:00 AM,04/02/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (4.16),S16AP069,04/16/2016 12:00:00 AM,04/16/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (4.30),S16AP070,04/30/2016 12:00:00 AM,04/30/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+01/26/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,March of Dimes - March for Babies,S16AP091,04/29/2016 12:00:00 AM,04/30/2016 12:00:00 AM,,Queen Anne,7,West,March of Dimes,4110.0
+01/28/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Cannabis Freedom March/Rally,S16AP095,04/30/2016 12:00:00 AM,04/30/2016 12:00:00 AM,,Capitol Hill,3;7,East;West,Cannabis Defense Coalition,530.0
+01/28/2016 12:00:00 AM,Complete,Special Event,Commercial,,LAN Syndicate,S16AP096,04/15/2016 12:00:00 AM,04/17/2016 12:00:00 AM,,Sand Point,4,North,"Tek Syndicate, LLC",1560.0
+02/04/2016 12:00:00 AM,Cancelled,Special Event,Free Speech,,Pilgrimage Day,S16AP110,04/13/2016 12:00:00 AM,04/13/2016 12:00:00 AM,,Central District,3,East,Western Washington Catholic Charismatic Renewal,120.0
+02/05/2016 12:00:00 AM,Complete,Special Event,Community,,Green Lake Food Walk,S16AP111,04/30/2016 12:00:00 AM,04/30/2016 12:00:00 AM,,Green Lake,6,North,Shelter Lounge Green Lake,260.0
+02/10/2016 12:00:00 AM,Complete,Special Event,Commercial,,NFFTY 2016 Opening Night,S16AP122,04/28/2016 12:00:00 AM,04/28/2016 12:00:00 AM,,Downtown,7,West,The Talented Youth (AKA NFFTY),750.0
+02/16/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Teatro Zin Zani,S16AP129,04/02/2016 12:00:00 AM,04/02/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,125.0
+02/16/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - PAWS,S16AP130,04/09/2016 12:00:00 AM,04/09/2016 12:00:00 AM,,Wallingford,4,North,Red Carpet Valet,200.0
+02/18/2016 12:00:00 AM,Complete,Special Event,Community,,Cornish College of the Arts BFA Expo 2016,S16AP137,04/29/2016 12:00:00 AM,04/29/2016 12:00:00 AM,,Downtown,2,West,Cornish College of the Arts,450.0
+02/19/2016 12:00:00 AM,Complete,Special Event,Community,,WSDOT SR520 Public Grand Opening,S16AP138,04/02/2016 12:00:00 AM,04/02/2016 12:00:00 AM,,University District,4,North,Washington State Department of Transportation,50500.0
+02/19/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,GO LONG SR520 Floating Bridge Run,S16AP139,04/02/2016 12:00:00 AM,04/02/2016 12:00:00 AM,,University District,3;4,North,GO LONG SR520 Floating Bridge Run,8500.0
+03/04/2016 12:00:00 AM,Complete,Special Event,Community,,Alley Activation Event,S16AP158,04/09/2016 12:00:00 AM,04/09/2016 12:00:00 AM,,University District,4,North,The U District Partnership,110.0
+03/07/2016 12:00:00 AM,Complete,Special Event,Commercial,,National Geographic Live (4.12),S16AP161,04/12/2016 12:00:00 AM,04/12/2016 12:00:00 AM,,Downtown,7,West,Benaroya Hall,1400.0
+03/17/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Ferguson Construction,S16AP182,04/28/2016 12:00:00 AM,04/28/2016 12:00:00 AM,,Sodo,2,South,Red Carpet Valet,100.0
+03/17/2016 12:00:00 AM,Complete,Special Event,Athletic,Water,WSU OSU Dual,S16AP186,04/09/2016 12:00:00 AM,04/09/2016 12:00:00 AM,,Portage Bay,3;4,North;South,University of Washington Rowing,5500.0
+03/17/2016 12:00:00 AM,Complete,Special Event,Athletic,Water,Husky Open,S16AP189,04/02/2016 12:00:00 AM,04/02/2016 12:00:00 AM,,Portage Bay,3;4,North;South,University of Washington Rowing,700.0
+03/21/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Top Pot Doughnut Dash,S16AP196,04/24/2016 12:00:00 AM,04/24/2016 12:00:00 AM,,Green Lake,6,North,Top Pot Doughnut Dash,2250.0
+03/21/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Protest anti Barnevernet CPA in Norway,S16AP198,04/16/2016 12:00:00 AM,04/16/2016 12:00:00 AM,,Downtown,7,West,First Romanian Pentecostal Church,950.0
+03/24/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Sole Repair,S16AP201,04/07/2016 12:00:00 AM,04/07/2016 12:00:00 AM,,Capitol Hill,3,East,Red Carpet Valet,25.0
+03/25/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Fast for Justice,S16AP204,04/14/2016 12:00:00 AM,04/14/2016 12:00:00 AM,,Capitol Hill,3,East,SEIU Local 925,60.0
+03/28/2016 12:00:00 AM,Complete,Special Event,Community,,Northwest School Spring ArtsFest,S16AP206,04/07/2016 12:00:00 AM,04/07/2016 12:00:00 AM,,Capitol Hill,3,East,The Northwest School,600.0
+03/30/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Indigenous People Standing Against Disenrollment,S16AP216,04/18/2016 12:00:00 AM,04/18/2016 12:00:00 AM,,Downtown,7,West,Indigenous People Standing Against Disenrollment,410.0
+03/31/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Jessica Atkinson (4.8),S16AP219,04/08/2016 12:00:00 AM,04/08/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,75.0
+03/31/2016 12:00:00 AM,Complete,Special Event,Commercial,,Tableau Software,S16AP222,04/19/2016 12:00:00 AM,04/19/2016 12:00:00 AM,,Wallingford,4,North,Fremont Studios,230.0
+04/04/2016 12:00:00 AM,Complete,Special Event,Commercial,,SPU High School Campus Visit Day,S16AP226,04/07/2016 12:00:00 AM,04/08/2016 12:00:00 AM,,Queen Anne,7,West,Seattle Pacific University,900.0
+04/05/2016 12:00:00 AM,Complete,Special Event,Community,,12th Ave Square Park Dedication,S16AP227,04/14/2016 12:00:00 AM,04/14/2016 12:00:00 AM,,Central District,3,West,Seattle Parks and Recreation,110.0
+04/06/2016 12:00:00 AM,Complete,Special Event,Commercial,,MOTHER'S DAY MOVIE PREMIER AT CINERAMA,S16AP229,04/25/2016 12:00:00 AM,04/25/2016 12:00:00 AM,,Downtown,7,West,The Film School,500.0
+04/06/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Homeless Rally and March,S16AP232,04/23/2016 12:00:00 AM,04/23/2016 12:00:00 AM,,Pioneer Square,7,South,Lisa Sawyer/Sharon Jones,60.0
+12/08/2015 12:00:00 AM,In Process,Special Event,Mixed Free Speech,,Seattle Hempfest 2016,S16AU008,08/19/2016 12:00:00 AM,08/21/2016 12:00:00 AM,Myrtle Edwards Park,Downtown,7,West,Seattle Events A Non-Profit Corporation,108000.0
+12/03/2015 12:00:00 AM,Complete,Special Event,Community,,The 2016 Belltown Bash,S16AU017,08/02/2016 12:00:00 AM,08/02/2016 12:00:00 AM,,Belltown,3,West,"CWD Group, Inc.",640.0
+12/03/2015 12:00:00 AM,Complete,Special Event,Athletic,Water,Swim for Life,S16AU022,08/17/2016 12:00:00 AM,08/17/2016 12:00:00 AM,Madison Park,Madison Park,3,East,Bloodworks Northwest (formerly Puget Sound Blood Center),350.0
+12/07/2015 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Alki Beach Run,S16AU023,08/28/2016 12:00:00 AM,08/28/2016 12:00:00 AM,Anchor Park,West Seattle,1,Southwest,Northwest Hope and Healing Foundation,1400.0
+12/20/2015 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Lake Union 10K,S16AU031,08/14/2016 12:00:00 AM,08/14/2016 12:00:00 AM,,Multiple Neighborhoods,4;7,North,Run for Good Racing Co./5 Focus,1300.0
+12/09/2015 12:00:00 AM,Complete,Special Event,Community,,St. Therese Alumni Reunion Summer Block Party 2016,S16AU035,08/20/2016 12:00:00 AM,08/20/2016 12:00:00 AM,,Madrona,3,East,St. Therese Alumni Reunion Planning Committee,550.0
+04/05/2016 12:00:00 AM,Complete,Special Event,Community,,BEGO Ethiopian Cultural Music and Arts Festival,S16AU050,08/14/2016 12:00:00 AM,08/14/2016 12:00:00 AM,,Central District,2,East,BEGO,950.0
+01/20/2016 12:00:00 AM,Complete,Special Event,Athletic,Water,Park to Park Swim,S16AU056,08/21/2016 12:00:00 AM,08/21/2016 12:00:00 AM,,Sand Point,4,North,Seattle Children's Hospital Guild Association,375.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (8.14),S16AU077,08/14/2016 12:00:00 AM,08/14/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (8.21),S16AU078,08/21/2016 12:00:00 AM,08/21/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+02/09/2016 12:00:00 AM,Cancelled,Special Event,Commercial,,Slide the City,S16AU116,08/27/2016 12:00:00 AM,08/27/2016 12:00:00 AM,,Queen Anne,7,West,Slide the City LLC,6500.0
+02/09/2016 12:00:00 AM,Complete,Special Event,Community,,South Lake Union Block Party,S16AU118,08/12/2016 12:00:00 AM,08/12/2016 12:00:00 AM,,South Lake Union,7,West,Vulcan Inc.,3025.0
+03/02/2016 12:00:00 AM,Cancelled,Special Event,Athletic,Run/Walk,Women of Wonder Triathlon,S16AU155,08/20/2016 12:00:00 AM,08/21/2016 12:00:00 AM,,Mount Baker,2;3,South,"Pro-Motion Events, Inc.",2700.0
+03/10/2016 12:00:00 AM,Complete,Special Event,Commercial,,Facebook Seattle at GasWorks Park,S16AU170,08/19/2016 12:00:00 AM,08/19/2016 12:00:00 AM,,Wallingford,4,North,Facebook Seattle,1050.0
+03/14/2016 12:00:00 AM,Complete,Special Event,Commercial,,Belltown Arts Revue,S16AU175,08/20/2016 12:00:00 AM,08/20/2016 12:00:00 AM,,Belltown,7,West,Under the Needle Tattoo,400.0
+03/17/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Street Food Festival,S16AU187,08/19/2016 12:00:00 AM,08/21/2016 12:00:00 AM,,South Lake Union,7,West,Piranha Blonde Interactive,25220.0
+03/21/2016 12:00:00 AM,Cancelled,Special Event,Athletic,Run/Walk,"UNCF Walk, Run, Bike for Education",S16AU195,08/20/2016 12:00:00 AM,08/20/2016 12:00:00 AM,,Central District,3,East,UNCF (United Negro College Fund),250.0
+03/29/2016 12:00:00 AM,Complete,Special Event,Community,,Magnolia Summerfest and Art Show,S16AU211,08/05/2016 12:00:00 AM,08/07/2016 12:00:00 AM,,Magnolia,7,West,magnolia chamber of commerce,6808.0
+03/29/2016 12:00:00 AM,Complete,Special Event,Community,,Magnolia Seafair Parade and Kid's Parade,S16AU212,08/06/2016 12:00:00 AM,08/06/2016 12:00:00 AM,,Magnolia,7,West,Magnolia Chamber of Commerce,4800.0
+03/31/2016 12:00:00 AM,Complete,Special Event,Community,,SalmonFest Seattle 2016,S16AU224,08/05/2016 12:00:00 AM,08/07/2016 12:00:00 AM,,Lake City,5,North,North Seattle Chamber of Commerce,10120.0
+04/06/2016 12:00:00 AM,Complete,Special Event,Commercial,,Arts in Nature Festival,S16AU228,08/20/2016 12:00:00 AM,08/21/2016 12:00:00 AM,OTHER,West Seattle,1,West,Nature Consortium,1030.0
+04/06/2016 12:00:00 AM,Complete,Special Event,Commercial,,"Nisargand - Lehnig Wedding August 6, 2016 Baraat",S16AU231,08/06/2016 12:00:00 AM,08/06/2016 12:00:00 AM,,Downtown,4,West,,20.0
+11/23/2015 12:00:00 AM,Complete,Special Event,Athletic,Water,Special Olympic Polar Plunge,S16FE015,02/05/2016 12:00:00 AM,02/06/2016 12:00:00 AM,Golden Gardens Park,Ballard,6,North,Special Olympics Washington,740.0
+11/25/2015 12:00:00 AM,Complete,Special Event,Community,,2016 Wing Luke Museum Lunar New Year Lion Dance,S16FE019,02/06/2016 12:00:00 AM,02/06/2016 12:00:00 AM,,International District,2,West,Wing Luke Museum of the Asian Pacific American Experience,340.0
+01/04/2016 12:00:00 AM,Complete,Special Event,Commercial,,Debuts & Discoveries,S16FE041,02/27/2016 12:00:00 AM,02/27/2016 12:00:00 AM,Magnuson Park,Sand Point,4,North,University Sunrise Rotary Club,750.0
+01/12/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Love 'em or Leave 'em Valentine's Day Dash,S16FE051,02/14/2016 12:00:00 AM,02/14/2016 12:00:00 AM,Greenlake Park,Green Lake,6,North,Pro-Motion Events Inc,2000.0
+01/20/2016 12:00:00 AM,Complete,Special Event,Community,,Lunar New Year Celebration,S16FE058,02/13/2016 12:00:00 AM,02/13/2016 12:00:00 AM,,International District,2,West,Chinatown-International District Business Improvement Area,5100.0
+01/20/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Chihuly Boathouse (2.13),S16FE062,02/13/2016 12:00:00 AM,02/13/2016 12:00:00 AM,,Wallingford,4,North,Red Carpet Valet,50.0
+01/21/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Chihuly Boathouse (2.06),S16FE063,02/06/2016 12:00:00 AM,02/06/2016 12:00:00 AM,,Wallingford,4,North,Red Carpet Valet,40.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (2.23),S16FE065,02/23/2016 12:00:00 AM,02/23/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+01/22/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Westland Distillery,S16FE087,02/04/2016 12:00:00 AM,02/04/2016 12:00:00 AM,,Sodo,2,South,Red Carpet Valet,25.0
+02/02/2016 12:00:00 AM,Complete,Special Event,Commercial,,National Geographic Live! (2.23),S16FE108,02/23/2016 12:00:00 AM,02/23/2016 12:00:00 AM,,Downtown,7,West,Benaroya Hall,2000.0
+02/03/2016 12:00:00 AM,Complete,Special Event,Commercial,,Seattle Symphony Open Rehearsal,S16FE109,02/25/2016 12:00:00 AM,02/25/2016 12:00:00 AM,,Downtown,7,West,Seattle Symphony,1300.0
+02/09/2016 12:00:00 AM,Complete,Special Event,Free Speech,,March for Bernie,S16FE115,02/27/2016 12:00:00 AM,02/27/2016 12:00:00 AM,,Downtown,7,West,Movement 4 Bernie,800.0
+02/16/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Galvanize,S16FE127,02/25/2016 12:00:00 AM,02/25/2016 12:00:00 AM,,Pioneer Square,7,West,Red Carpet Valet,75.0
+02/16/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Support Indicted nYPD Officer Liang,S16FE132,02/20/2016 12:00:00 AM,02/20/2016 12:00:00 AM,,Downtown,7,West,Seattle Chinese Volunteer Association,0.0
+02/22/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Matt's at the Market,S16FE145,02/25/2016 12:00:00 AM,02/25/2016 12:00:00 AM,,Downtown,7,West,Butler Valet,50.0
+02/22/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Palace Ballroom (2.27),S16FE146,02/27/2016 12:00:00 AM,02/27/2016 12:00:00 AM,,Downtown,7,West,Butler Valet,50.0
+02/22/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Seattle Center Pavilion,S16FE147,02/27/2016 12:00:00 AM,02/27/2016 12:00:00 AM,,Queen Anne,7,West,Butler Valet,50.0
+,Cancelled,Special Event,Commercial,,American Express Game Day Event (01.09-01.10) - Occidental Park,S16JA001,01/09/2016 12:00:00 AM,01/10/2016 12:00:00 AM,Occidental Park,Pioneer Square,2,West,Momentum Worldwide,950.0
+,Cancelled,Special Event,Commercial,,American Express Game Day Event (01.16-1.17) - Occidental Park,S16JA002,01/16/2016 12:00:00 AM,01/17/2016 12:00:00 AM,Occidental Park,Pioneer Square,2,West,Momentum Worldwide,950.0
+,Cancelled,Special Event,Commercial,,American Express Game Day Event (01.24) - Occidental Park,S16JA003,01/24/2016 12:00:00 AM,01/24/2016 12:00:00 AM,Occidental Park,Pioneer Square,2,West,Momentum Worldwide,950.0
+11/25/2015 12:00:00 AM,Complete,Special Event,Free Speech,,2016 MLK March (Giddens),S16JA005,01/15/2016 12:00:00 AM,01/15/2016 12:00:00 AM,,Central District,3,East,Giddens School,300.0
+12/09/2015 12:00:00 AM,Complete,Special Event,Commercial,,Seattle Boat Show,S16JA010,01/29/2016 12:00:00 AM,02/06/2016 12:00:00 AM,,South Lake Union,3,West,Northwest Yacht Brokers Association,13280.0
+12/18/2015 12:00:00 AM,Complete,Special Event,Free Speech,,Dr. Martin Luther King Jr. Birthday March (McDonald),S16JA011,01/15/2016 12:00:00 AM,01/15/2016 12:00:00 AM,,Lake City,6,North,McDonald International School,500.0
+12/09/2015 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Resolution Run Presented by Club Northwest,S16JA012,01/01/2016 12:00:00 AM,01/01/2016 12:00:00 AM,Magnuson Park,Sand Point,6,North,"Pro-Motion Events, Inc.",1825.0
+,Complete,Special Event,Free Speech,,Annual Martin Luther King Jr. March and Symposium,S16JA013,01/16/2016 12:00:00 AM,01/16/2016 12:00:00 AM,Martin Luther King Jr Memorial Park,Mount Baker,2,South,Seattle Parks and Recreation,285.0
+12/15/2015 12:00:00 AM,Complete,Special Event,Free Speech,,Orca K-8 School 2016 MLK March,S16JA026,01/15/2016 12:00:00 AM,01/15/2016 12:00:00 AM,,Columbia City,2,South,Orca K-8 School of Seattle Public Schools,650.0
+12/18/2015 12:00:00 AM,Complete,Special Event,Free Speech,,Martin Luther King Jr. Committee 34th Annual March & Rally,S16JA030,01/18/2016 12:00:00 AM,01/18/2016 12:00:00 AM,,Multiple Neighborhoods,3;7,East;West,Martin Luther King Jr. Celebration Committee,5200.0
+12/22/2015 12:00:00 AM,Complete,Special Event,Commercial,,Seattle Symphony Friday Matinees Concert (1.22),S16JA034,01/22/2016 12:00:00 AM,01/22/2016 12:00:00 AM,,Downtown,7,West,Seattle Smphony/Benaroya Hall,285.0
+12/28/2015 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Chihuly Boathouse,S16JA037,01/15/2016 12:00:00 AM,01/15/2016 12:00:00 AM,,Wallingford,4,North,Red Carpet Valet,60.0
+01/04/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Ethiopian Churches Epiphany Celebration,S16JA045,01/23/2016 12:00:00 AM,01/23/2016 12:00:00 AM,,Mount Baker,2,South,Ethiopian Orthodox Tewanedo Church,4000.0
+01/08/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Martin Luther King March (Roosevelt),S16JA048,01/14/2016 12:00:00 AM,01/14/2016 12:00:00 AM,,University District,4,North,"Black Student Union, Roosevelt High School",105.0
+01/12/2016 12:00:00 AM,Cancelled,Special Event,Community,,First Hill Streetcar Launch,S16JA052,01/23/2016 12:00:00 AM,01/23/2016 12:00:00 AM,,Multiple Neighborhoods,7,East;West,Seattle Department of Transportation,220.0
+01/14/2016 12:00:00 AM,Cancelled,Special Event,Free Speech,,Public Lands Are for All of Us Rally,S16JA055,01/19/2016 12:00:00 AM,01/19/2016 12:00:00 AM,,Downtown,7,West,Conservation Northwest,320.0
+01/20/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Chihuly Boathouse (1.25),S16JA061,01/25/2016 12:00:00 AM,01/25/2016 12:00:00 AM,,Wallingford,4,North,Red Carpet Valet,60.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Commercial,,National Geographic Live! Student Matinees (1.25-26),S16JA084,01/25/2016 12:00:00 AM,01/26/2016 12:00:00 AM,,Downtown,7,West,Benaroya Hall,2600.0
+01/22/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Open House (1.28),S16JA085,01/28/2016 12:00:00 AM,01/28/2016 12:00:00 AM,,Queen Anne,7,West,Butler Valet,60.0
+01/22/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Open House (1.30),S16JA086,01/30/2016 12:00:00 AM,01/30/2016 12:00:00 AM,,Queen Anne,7,West,Butler Valet,60.0
+01/26/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - UW Private Dinner Party,S16JA089,01/28/2016 12:00:00 AM,01/28/2016 12:00:00 AM,,Queen Anne,7,West,Butler Valet,50.0
+11/04/2015 12:00:00 AM,Complete,Special Event,Commercial,,Beer Camp Across America - Pacific Northwest and Rocky Mountain Edition,S16JU014,06/11/2016 12:00:00 AM,06/11/2016 12:00:00 AM,Lake Union Park,Cascade,7,West,Sierra Nevada Brewing Co,3450.0
+12/16/2015 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Shore Run,S16JU029,06/12/2016 12:00:00 AM,06/12/2016 12:00:00 AM,,Multiple Neighborhoods,3,East;South,Orswell Events,3000.0
+01/20/2016 12:00:00 AM,Cancelled,Special Event,Commercial,,The Bush School 2016 Middle School Moving-Up Ceremony & Baccalaureate (6/9/16) & 2016 Graduation (6/10/16),S16JU059,06/09/2016 12:00:00 AM,06/10/2016 12:00:00 AM,,Madison Park,3,East,The Bush School,1150.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (6.25),S16JU073,06/25/2016 12:00:00 AM,06/25/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+02/02/2016 12:00:00 AM,Complete,Special Event,Community,,Fremont Solstice Fair,S16JU103,06/17/2016 12:00:00 AM,06/19/2016 12:00:00 AM,,Fremont,6,North,Fremont Chamber of Commerce,36050.0
+02/02/2016 12:00:00 AM,In Process,Special Event,Mixed Free Speech,,Capitol Hill Pride Festival,S16JU107,06/25/2016 12:00:00 AM,06/26/2016 12:00:00 AM,,Capitol Hill,3,East,Northwest Museum of Legends and Lore,60050.0
+02/10/2016 12:00:00 AM,Complete,Special Event,Commercial,,Wildrose Pride 2016,S16JU121,06/24/2016 12:00:00 AM,06/26/2016 12:00:00 AM,,Capitol Hill,3,East,Wildrose,4390.0
+02/12/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Capitol Hill Pride Festival March & Rally,S16JU124,06/25/2016 12:00:00 AM,06/25/2016 12:00:00 AM,,Capitol Hill,3,East,Northwest Museum of Legends and Lore,212.0
+02/22/2016 12:00:00 AM,Complete,Special Event,Community,,Greenwood Car Show,S16JU143,06/25/2016 12:00:00 AM,06/25/2016 12:00:00 AM,,Greenwood,6,North,Greenwood Knights,1050.0
+03/04/2016 12:00:00 AM,In Process,Special Event,Mixed Free Speech,,Seattle Pride Parade,S16JU157,06/26/2016 12:00:00 AM,06/26/2016 12:00:00 AM,,Downtown,7,West,Seattle Pride,204000.0
+03/07/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Rock 'n' Roll Marathon,S16JU159,06/18/2016 12:00:00 AM,06/18/2016 12:00:00 AM,,Sodo,2;3;7,South,Competitor Group Inc,28000.0
+03/07/2016 12:00:00 AM,Complete,Special Event,Community,,2016 Seattle Spring Opener,S16JU164,06/05/2016 12:00:00 AM,06/05/2016 12:00:00 AM,,Georgetown,2,South,Seattle Spring Opener,300.0
+03/10/2016 12:00:00 AM,Complete,Special Event,Community,,Volunteer Park Pride Festival,S16JU169,06/11/2016 12:00:00 AM,06/11/2016 12:00:00 AM,,Capitol Hill,3,East,Seattle Pride,2550.0
+03/11/2016 12:00:00 AM,Complete,Special Event,Commercial,,Purr Pride Block Party,S16JU173,06/25/2016 12:00:00 AM,06/25/2016 12:00:00 AM,,Capitol Hill,3,East,Purr Cocktail Lounge,985.0
+03/15/2016 12:00:00 AM,Complete,Special Event,Community,,Georgetown Carnival,S16JU176,06/11/2016 12:00:00 AM,06/11/2016 12:00:00 AM,,Georgetown,2,South,Georgetown Merchants Association,9600.0
+03/16/2016 12:00:00 AM,Complete,Special Event,Commercial,,Neighbours Gay Pride Celebration,S16JU179,06/24/2016 12:00:00 AM,06/25/2016 12:00:00 AM,,Capitol Hill,3,East,Neighbours Seattle,418.0
+03/17/2016 12:00:00 AM,Complete,Special Event,Commercial,,Seattle Symphony Friday Matinees concert,S16JU185,06/10/2016 12:00:00 AM,06/10/2016 12:00:00 AM,,Downtown,7,West,Seattle Symphony/Benaroya Hall,355.0
+03/18/2016 12:00:00 AM,Complete,Special Event,Community,,Roosevelt High School Neighborhood Parade,S16JU190,06/18/2016 12:00:00 AM,06/18/2016 12:00:00 AM,,Roosevelt,4,North,Roosevelt Band Boosters,190.0
+03/21/2016 12:00:00 AM,Complete,Special Event,Commercial,,Drink Pink at Café Campagne,S16JU192,06/02/2016 12:00:00 AM,06/02/2016 12:00:00 AM,,Downtown,7,West,Café Campagne,112.0
+03/21/2016 12:00:00 AM,Complete,Special Event,Community,,Morgan Junction Community Festival,S16JU194,06/18/2016 12:00:00 AM,06/18/2016 12:00:00 AM,,West Seattle,1,West,Morgan Community Association (MoCA),750.0
+02/16/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Hillel of UW,S16MR133,03/03/2016 12:00:00 AM,03/03/2016 12:00:00 AM,,University District,4,North,Red Carpet Valet,125.0
+03/21/2016 12:00:00 AM,Complete,Special Event,Community,,HONK! Fest West 2016 (Columbia City),S16JU197,06/19/2016 12:00:00 AM,06/19/2016 12:00:00 AM,,Columbia City,2,South,HONK! Fest West,1800.0
+03/23/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Seattle Dyke March,S16JU200,06/25/2016 12:00:00 AM,06/25/2016 12:00:00 AM,,Capitol Hill,3,East,Seattle Dyke March,725.0
+03/25/2016 12:00:00 AM,Complete,Special Event,Commercial,,SAM Party in the Park,S16JU203,06/24/2016 12:00:00 AM,06/24/2016 12:00:00 AM,,Downtown,7,West,Seattle Art Museum,600.0
+03/21/2016 12:00:00 AM,Complete,Special Event,Community,,HONK! Fest West 2016 (Capitol Hill),S16JU205,06/17/2016 12:00:00 AM,06/17/2016 12:00:00 AM,,Capitol Hill,3,East,HONK! Fest West,1800.0
+03/28/2016 12:00:00 AM,Complete,Special Event,Commercial,,Fuel Outdoor Beer Garden (6.11),S16JU208,06/11/2016 12:00:00 AM,06/11/2016 12:00:00 AM,,Pioneer Square,7,South,Fuel Sports Eats and Beats,420.0
+03/29/2016 12:00:00 AM,Complete,Special Event,Citywide,,Fremont Solstice Parade,S16JU210,06/18/2016 12:00:00 AM,06/18/2016 12:00:00 AM,,Fremont,4;6,North,Fremont Arts Council,25000.0
+03/29/2016 12:00:00 AM,Complete,Special Event,Community,,Fremont Solstice Celebration,S16JU213,06/18/2016 12:00:00 AM,06/18/2016 12:00:00 AM,,Fremont,6,North,Fremont Arts Council,2000.0
+03/29/2016 12:00:00 AM,Complete,Special Event,Community,,Fremont Solstice Float Move,S16JU214,06/17/2016 12:00:00 AM,06/17/2016 12:00:00 AM,,Fremont,6,North,Fremont Arts Council,300.0
+03/29/2016 12:00:00 AM,Complete,Special Event,Community,,Pride Party in Tilikum Park,S16JU215,06/26/2016 12:00:00 AM,06/26/2016 12:00:00 AM,,Belltown,7,West,The 5 Point Café,510.0
+03/30/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Race for the Cure - Susan G. Komen,S16JU217,06/05/2016 12:00:00 AM,06/05/2016 12:00:00 AM,,Queen Anne,7,West,Susan G. Komen Puget Sound,5500.0
+03/31/2016 12:00:00 AM,Complete,Special Event,Commercial,,Cuff Pride Day Celebration,S16JU220,06/26/2016 12:00:00 AM,06/26/2016 12:00:00 AM,,Capitol Hill,3,East,Cuff Pride Day Celebration,
+04/06/2016 12:00:00 AM,Complete,Special Event,Community,,Hopscotch CD,S16JU230,06/11/2016 12:00:00 AM,06/11/2016 12:00:00 AM,,Central District,3,East,Centerstone,500.0
+12/01/2015 12:00:00 AM,Complete,Special Event,Commercial,,Clips Beer and Film Tour,S16JY007,07/29/2016 12:00:00 AM,07/29/2016 12:00:00 AM,Gas Works Park,Portage Bay,4,West,The World is Fun,2500.0
+11/25/2015 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Crown of Queen Anne Fun Run/Walk,S16JY020,07/09/2016 12:00:00 AM,07/09/2016 12:00:00 AM,,Queen Anne,7,West,Crown of Queen Anne Fun Run/Walk,760.0
+11/20/2015 12:00:00 AM,Complete,Special Event,Athletic,Cycling,Group Health Seattle to Portland presented by Alaska Airlines (STP),S16JY021,07/16/2016 12:00:00 AM,07/16/2016 12:00:00 AM,,University District,2;3;4,North,Cascade Bicycle Club,10090.0
+12/21/2015 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Float Dodger 5K,S16JY032,07/23/2016 12:00:00 AM,07/23/2016 12:00:00 AM,,West Seattle,1,Southwest,Run for Good Racing Co./5 Focus,650.0
+12/29/2015 12:00:00 AM,Complete,Special Event,Athletic,Cycling,Seattle Night Ride,S16JY040,07/08/2016 12:00:00 AM,07/08/2016 12:00:00 AM,,Multiple Neighborhoods,6;7,North;West,Cascade Bicycle Club,620.0
+01/04/2016 12:00:00 AM,Complete,Special Event,Athletic,Water,Fat Salmon Open Water Swim,S16JY042,07/16/2016 12:00:00 AM,07/16/2016 12:00:00 AM,Madison Park,Multiple Neighborhoods,3,East,Orca Swim Team,450.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (3.19),S16MR067,03/19/2016 12:00:00 AM,03/19/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+01/25/2016 12:00:00 AM,Complete,Special Event,Community,,Magnolia Little League Annual Parade,S16MR088,03/26/2016 12:00:00 AM,03/26/2016 12:00:00 AM,,Magnolia,7,West,Magnolia Little League,2025.0
+01/27/2016 12:00:00 AM,Complete,Special Event,Commercial,,"The 5th Avenue Theatre Student Matinee for ""How to Succeed in Business""",S16MR093,03/03/2016 12:00:00 AM,03/04/2016 12:00:00 AM,,Downtown,7,West,The 5th Avenue Theatre,1820.0
+02/01/2016 12:00:00 AM,Complete,Special Event,Commercial,,All Hands,S16MR100,03/31/2016 12:00:00 AM,03/31/2016 12:00:00 AM,,Multiple Neighborhoods,7,West,Spplus,2940.0
+02/01/2016 12:00:00 AM,Complete,Special Event,Commercial,,Fuel Outdoor Beer Garden (3.19),S16MR101,03/19/2016 12:00:00 AM,03/19/2016 12:00:00 AM,,Pioneer Square,7,South,Fuel Outdoor Beer Garden,420.0
+02/09/2016 12:00:00 AM,Complete,Special Event,Commercial,,Seattle Symphony Friday Matinees Concert,S16MR114,03/25/2016 12:00:00 AM,03/25/2016 12:00:00 AM,,Downtown,7,West,Seattle Symphony/Benaroya Hall,355.0
+02/16/2016 12:00:00 AM,Complete,Special Event,Commercial,,Starbucks Coffee Company 2016 Annual Shareholders Meeting,S16MR126,03/23/2016 12:00:00 AM,03/23/2016 12:00:00 AM,,Queen Anne,7,West,Starbucks Coffee Company,3000.0
+02/16/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Holocaust Center,S16MR128,03/02/2016 12:00:00 AM,03/02/2016 12:00:00 AM,,Pioneer Square,7,West,Red Carpet Valet,30.0
+02/16/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Palace Ballroom,S16MR134,03/05/2016 12:00:00 AM,03/05/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,130.0
+02/18/2016 12:00:00 AM,Complete,Special Event,Free Speech,,57th Tibetan Uprising Day,S16MR136,03/10/2016 12:00:00 AM,03/10/2016 12:00:00 AM,,Downtown,7,West,Tibetan Assocation of Washington Seattle Chapter,80.0
+02/19/2016 12:00:00 AM,Complete,Special Event,Community,,Sound Transit U Link Launch Capitol Hill Station,S16MR140,03/19/2016 12:00:00 AM,03/19/2016 12:00:00 AM,,Capitol Hill,3,East,Sound Transit,30500.0
+02/19/2016 12:00:00 AM,Complete,Special Event,Community,,Sound Transit U Link Launch University of Washington Station,S16MR141,03/19/2016 12:00:00 AM,03/19/2016 12:00:00 AM,,University District,4,North,Sound Transit,30500.0
+02/22/2016 12:00:00 AM,Complete,Special Event,Athletic,Water,Class Day,S16MR144,03/26/2016 12:00:00 AM,03/26/2016 12:00:00 AM,,Montlake,3;4,North;South,University of Washington Rowing,620.0
+02/26/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Palace Ballroom (3.12),S16MR150,03/12/2016 12:00:00 AM,03/12/2016 12:00:00 AM,,Downtown,7,West,Butler Valet,100.0
+03/01/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Tom Douglas Event,S16MR151,03/05/2016 12:00:00 AM,03/05/2016 12:00:00 AM,,Downtown,7,West,Butler Valet,100.0
+03/01/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Oromo Community Rally Against Ethiopian Government,S16MR154,03/11/2016 12:00:00 AM,03/11/2016 12:00:00 AM,,Central District,3,East,Oromo Community Service of Seattle,400.0
+03/10/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Pier 70 Graham and Dunn,S16MR167,03/17/2016 12:00:00 AM,03/17/2016 12:00:00 AM,,Downtown,7,West,Butler Valet,300.0
+03/10/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Quality Athletics,S16MR168,03/17/2016 12:00:00 AM,03/17/2016 12:00:00 AM,,Pioneer Square,7,West,Butler Valet,50.0
+03/15/2016 12:00:00 AM,Complete,Special Event,Commercial,,"National Geographic Live! Student Series: Rhinos, Rickshaws & Revolutions",S16MR177,03/21/2016 12:00:00 AM,03/22/2017 12:00:00 AM,,Downtown,7,West,Benaroya Hall,2300.0
+03/16/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Neptune Theatre,S16MR178,03/25/2016 12:00:00 AM,03/25/2016 12:00:00 AM,,University District,4,North,Butler Valet,150.0
+03/17/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Seattle Good Bar,S16MR181,03/31/2016 12:00:00 AM,03/31/2016 12:00:00 AM,,Pioneer Square,7,West,Red Carpet Valet,80.0
+03/17/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Jessica Atkinson,S16MR183,03/30/2016 12:00:00 AM,03/30/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,100.0
+11/30/2015 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,The Color Run Seattle 2016,S16MY009,05/08/2016 12:00:00 AM,05/08/2016 12:00:00 AM,,Queen Anne,7,West,"The Color Run, LLC",9000.0
+12/16/2015 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,West Seattle 5K Run/Walk,S16MY028,05/22/2016 12:00:00 AM,05/22/2016 12:00:00 AM,,West Seattle,1,Southwest,West Seattle High School PTSA,1400.0
+12/23/2015 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,2016 Seattle Lung Force Walk,S16MY036,05/07/2016 12:00:00 AM,05/07/2016 12:00:00 AM,,South Lake Union,7,West,American Lung Association of the Mountain Pacific,750.0
+02/19/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Fiesta 5K Ole,S16MY047,05/07/2016 12:00:00 AM,05/07/2016 12:00:00 AM,Volunteer Park,Capitol Hill,3,East,"Fizz Events, LLC",5100.0
+01/20/2016 12:00:00 AM,Complete,Special Event,Community,,Northwest Folklife Staging and Production,S16MY060,05/24/2016 12:00:00 AM,06/01/2016 12:00:00 AM,,Queen Anne,7,West,Northwest Folklife Staging and Production,1000.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Opening Day of Boating Season Parade,S16MY064,05/07/2016 12:00:00 AM,05/07/2016 12:00:00 AM,,Portage Bay,3;4,North,Seattle Yacht Club,4700.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (5.07),S16MY071,05/07/2016 12:00:00 AM,05/07/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (5.21),S16MY072,05/21/2016 12:00:00 AM,05/21/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+01/27/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Great Strides Seattle,S16MY092,05/22/2016 12:00:00 AM,05/22/2016 12:00:00 AM,,Queen Anne,7,North;West,Cystic Fibrosis Foundation,750.0
+01/28/2016 12:00:00 AM,Complete,Special Event,Community,,Taco Libre,S16MY094,05/01/2016 12:00:00 AM,05/01/2016 12:00:00 AM,,Fremont,6,North,Piranha Blonde Creative,10100.0
+01/29/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Brooks Trailhead 10K and 15K,S16MY097,05/22/2016 12:00:00 AM,05/22/2016 12:00:00 AM,Gas Works Park,Multiple Neighborhoods,3;4;6,East;North;West,Snohomish Running Company,1450.0
+02/01/2016 12:00:00 AM,Complete,Special Event,Commercial,,Cinco de Mayo Tacos Guaymas,S16MY102,05/05/2016 12:00:00 AM,05/05/2016 12:00:00 AM,,Green Lake,6,North,Tacos Guaymas/Salvador Sahagun,950.0
+02/10/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Nordstrom Beat the Bridge 8K Run and Walk,S16MY117,05/15/2016 12:00:00 AM,05/15/2016 12:00:00 AM,,University District,3;4,North,Nordstrom - NW Event Marketing,11000.0
+02/10/2016 12:00:00 AM,Complete,Special Event,Community,,West Seattle Bee Festival,S16MY119,05/21/2016 12:00:00 AM,05/21/2016 12:00:00 AM,,West Seattle,1,West,"High Point Open Spaces Association, Events Committee",450.0
+02/10/2016 12:00:00 AM,Complete,Special Event,Commercial,,Sonia & Kiran Wedding Procession,S16MY120,05/21/2016 12:00:00 AM,05/21/2016 12:00:00 AM,,Downtown,7,West,Sarika Paul,70.0
+02/16/2016 12:00:00 AM,Cancelled,Special Event,Commercial,,OWSLA Sound System,S16MY125,05/21/2016 12:00:00 AM,05/21/2016 12:00:00 AM,,Downtown,7,West,Upper Left,6100.0
+02/16/2016 12:00:00 AM,Complete,Special Event,Community,,University District Street Fair,S16MY131,05/20/2016 12:00:00 AM,05/22/2016 12:00:00 AM,,University District,4,North,The U District Partnership,31075.0
+02/22/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Norwegian 17th of May Parade,S16MY142,05/17/2016 12:00:00 AM,05/17/2016 12:00:00 AM,,Ballard,6,North,Seattle Norwegian 17th of May Committee,4500.0
+02/22/2016 12:00:00 AM,Complete,Special Event,Commercial,,Localicious - Living Future 2016,S16MY148,05/12/2016 12:00:00 AM,05/13/2016 12:00:00 AM,,Downtown,7,West,International Living Future Institute,1870.0
+03/01/2016 12:00:00 AM,Complete,Special Event,Community,,Madrona Mayfair,S16MY152,05/14/2016 12:00:00 AM,05/14/2016 12:00:00 AM,,Madrona,3,East,Madrona Community Council,525.0
+03/03/2016 12:00:00 AM,Complete,Special Event,Free Speech,,March Against Monsanto - Seattle 2016,S16MY156,05/21/2016 12:00:00 AM,05/21/2016 12:00:00 AM,,Downtown,7,West,March Against Monsanto - Seattle,922.0
+03/07/2016 12:00:00 AM,Complete,Special Event,Commercial,,National Geographic Live (5.15-5.16),S16MY162,05/16/2016 12:00:00 AM,05/17/2016 12:00:00 AM,,Downtown,7,West,Benaroya Hall,1200.0
+03/07/2016 12:00:00 AM,Complete,Special Event,Community,,Homeless Veterans Day,S16MY163,05/30/2016 12:00:00 AM,05/30/2016 12:00:00 AM,,Pioneer Square,7,West,Bread of Life Mission,2580.0
+03/10/2016 12:00:00 AM,In Process,Special Event,Commercial,,Seattle Symphony Link Up (5.11),S16MY171,05/11/2016 12:00:00 AM,05/11/2016 12:00:00 AM,,Downtown,7,West,Seattle Symphony,3825.0
+03/10/2016 12:00:00 AM,In Process,Special Event,Commercial,,Seattle Symphony Link Up (5.18-5.19),S16MY172,05/18/2016 12:00:00 AM,05/19/2016 12:00:00 AM,,Downtown,7,West,Seattle Symphony,6855.0
+03/14/2016 12:00:00 AM,Cancelled,Special Event,Community,,Cascadia Day Community Celebration,S16MY174,05/21/2016 12:00:00 AM,05/21/2016 12:00:00 AM,,Fremont,6,North,CascadiaNow!,250.0
+03/17/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - SODO Park,S16MY184,05/15/2016 12:00:00 AM,05/15/2016 12:00:00 AM,,Sodo,2,South,Red Carpet Valet,150.0
+03/17/2016 12:00:00 AM,Complete,Special Event,Athletic,Water,Opening Day Windermere Cup,S16MY188,05/07/2016 12:00:00 AM,05/07/2016 12:00:00 AM,,Portage Bay,3;4,North;South,University of Washington Rowing,5500.0
+03/21/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Ice Cream Festival,S16MY193,05/22/2016 12:00:00 AM,05/22/2016 12:00:00 AM,,Capitol Hill,3,East,Dunn & Hobbes,2530.0
+03/28/2016 12:00:00 AM,Complete,Special Event,Commercial,,Fuel Outdoor Beer Garden (5.7),S16MY207,05/07/2016 12:00:00 AM,05/07/2016 12:00:00 AM,,Pioneer Square,7,South,Fuel Sports Eats and Beats,420.0
+03/31/2016 12:00:00 AM,Complete,Special Event,Commercial,,Diversified Production Services,S16MY223,05/17/2016 12:00:00 AM,05/17/2016 12:00:00 AM,,Fremont,6,North,Fremont Studios,230.0
+04/01/2016 12:00:00 AM,Complete,Special Event,Community,,National Park Services BioBlitz,S16MY225,05/21/2016 12:00:00 AM,05/21/2016 12:00:00 AM,,Pioneer Square,2,South,InterIm CDA,280.0
+12/02/2015 12:00:00 AM,Complete,Special Event,Commercial,,My Macy's Starlighting and Fireworks,S16NO016,11/25/2016 12:00:00 AM,11/25/2016 12:00:00 AM,,Downtown,7,West,Macy's Inc,15010.0
+12/02/2015 12:00:00 AM,In Process,Special Event,Citywide,,My Macy's Holiday Parade,S16NO018,11/25/2016 12:00:00 AM,11/25/2016 12:00:00 AM,,Downtown,7,West,Macy's Inc.,23000.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Seattle Turkey Trot,S16NO083,11/24/2016 12:00:00 AM,11/24/2016 12:00:00 AM,,Ballard,6,North,Ballard Food Bank,4600.0
+10/05/2015 12:00:00 AM,Complete,Special Event,Athletic,Water,Tail of the Lake Regatta,S16OC006,10/02/2016 12:00:00 AM,10/02/2016 12:00:00 AM,,South Lake Union,4,West,Holy Names Academy,950.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (10.12),S16OC081,10/12/2016 12:00:00 AM,10/12/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (10.23),S16OC082,10/23/2016 12:00:00 AM,10/23/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+01/26/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,PurpleStride Puget Sound 2016,S16OC090,10/30/2016 12:00:00 AM,10/30/2016 12:00:00 AM,,Sand Point,4,North,Pancreatic Cancer Action Network,2700.0
+02/01/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Making Strides Against Breast Cancer of Seattle,S16OC099,10/29/2016 12:00:00 AM,10/29/2016 12:00:00 AM,,Queen Anne,7,West,"AMERICAN CANCER SOCIETY, INC.",3600.0
+12/01/2015 12:00:00 AM,In Process,Special Event,Mixed Free Speech,,San Gennaro Festival,S16SE004,09/09/2016 12:00:00 AM,09/11/2016 12:00:00 AM,,Georgetown,2,South,San Gennaro Foundation - Seattle,2010.0
+12/07/2015 12:00:00 AM,Complete,Special Event,Free Speech,,Mass of the Holy Spirit Procession,S16SE024,09/29/2016 12:00:00 AM,09/29/2016 12:00:00 AM,,First Hill,3,East,Seattle University,410.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (9.17),S16SE079,09/17/2016 12:00:00 AM,09/17/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+01/21/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (9.28),S16SE080,09/28/2016 12:00:00 AM,09/28/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,705.0
+02/02/2016 12:00:00 AM,Complete,Special Event,Commercial,,Fremont Oktoberfest,S16SE104,09/23/2016 12:00:00 AM,09/25/2016 12:00:00 AM,,Fremont,6,North,Fremont Chamber of Commerce,16450.0
+02/02/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Fremont Oktoberfest Alpine Climb 5K,S16SE105,09/25/2016 12:00:00 AM,09/25/2016 12:00:00 AM,Gas Works Park,Fremont,6,North,Bold Hat Productions,1230.0
+02/16/2016 12:00:00 AM,Complete,Special Event,Athletic,Other,US Gaelic Athletic Association Finals,S16SE135,09/02/2016 12:00:00 AM,09/04/2016 12:00:00 AM,,Sand Point,4,North,Irish Heritage Club/Seattle Gaels,7500.0
+03/07/2016 12:00:00 AM,Complete,Special Event,Free Speech,,"Global March for Elephants, Rhinos and Lions",S16SE160,09/24/2016 12:00:00 AM,09/24/2016 12:00:00 AM,,Queen Anne,7,West,Emerald City Pet Rescue,320.0
+03/25/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,The Orca Half,S16SE202,09/25/2016 12:00:00 AM,09/25/2016 12:00:00 AM,,West Seattle,1,Southwest;West,Orca Running,650.0
+04/06/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Raise the Alarm Route 1: Capitol Hill to Downtown,S16AP233,04/14/2016 12:00:00 AM,04/14/2016 12:00:00 AM,,Downtown,3;7,East;West,Working Washington,120.0
+04/06/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Raise the Alarm Route 2: Pike Place to Downtown,S16AP234,04/14/2016 12:00:00 AM,04/14/2016 12:00:00 AM,,Downtown,7,West,Working Washington,120.0
+04/07/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Fremont 5K & Briefcase Relay,S16JU235,06/03/2016 12:00:00 AM,06/03/2016 12:00:00 AM,,Fremont,4;6,North,"Pro-Motion Events, Inc.",1250.0
+05/24/2016 12:00:00 AM,In Process,Special Event,Citywide,,Seafair Weekend,S16AU305,08/05/2016 12:00:00 AM,08/07/2016 12:00:00 AM,,Mount Baker,1;2;3;4;5;6;7,East;North;South;West,Seafair,175300.0
+05/25/2016 12:00:00 AM,Cancelled,Valet Parking,,,Red Carpet Valet - CBRE,S16JU306,06/08/2016 12:00:00 AM,06/08/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,75.0
+05/26/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Eats and Beats (7.19),S16JY307,07/19/2016 12:00:00 AM,07/19/2016 12:00:00 AM,,Downtown,7,West,Seafair,200.0
+05/26/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Eats and Beats (7.26),S16JY308,07/26/2016 12:00:00 AM,07/26/2016 12:00:00 AM,,Downtown,7,West,Seafair,200.0
+05/26/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Eats and Beats (7.12),S16JY309,07/12/2016 12:00:00 AM,07/12/2016 12:00:00 AM,,Downtown,7,West,Seafair,200.0
+05/31/2016 12:00:00 AM,Complete,Special Event,Commercial,,CBS Radio Hometown Hangar (9.11),S16SE319,09/11/2016 12:00:00 AM,09/11/2016 12:00:00 AM,,Sodo,2,South,CBS Seattle,770.0
+05/31/2016 12:00:00 AM,Complete,Special Event,Commercial,,CBS Radio Hometown Hangar (9.25),S16SE320,09/25/2016 12:00:00 AM,09/25/2016 12:00:00 AM,,Sodo,2,South,CBS Seattle,770.0
+05/31/2016 12:00:00 AM,Complete,Special Event,Commercial,,CBS Radio Hometown Hangar (10.16),S16OC321,10/16/2016 12:00:00 AM,10/16/2016 12:00:00 AM,,Sodo,2,South,CBS Seattle,770.0
+05/31/2016 12:00:00 AM,Complete,Special Event,Commercial,,CBS Radio Hometown Hangar (11.20),S16NO322,11/20/2016 12:00:00 AM,11/20/2016 12:00:00 AM,,Sodo,2,South,CBS Seattle,770.0
+05/31/2016 12:00:00 AM,Complete,Special Event,Commercial,,CBS Radio Hometown Hangar (12.04),S16DE323,12/04/2016 12:00:00 AM,12/04/2016 12:00:00 AM,,Sodo,2,South,CBS Seattle,770.0
+08/01/2016 12:00:00 AM,Complete,Special Event,Commercial,,Fuel Outdoor Beer Garden (11.6-7),S16NO413,11/06/2016 12:00:00 AM,11/07/2016 12:00:00 AM,,Pioneer Square,7,South,Fuel Sports Eats and Beats,420.0
+08/01/2016 12:00:00 AM,Complete,Special Event,Community,,Fuel Outdoor Been Garden (12.4),S16DE414,12/04/2016 12:00:00 AM,12/04/2016 12:00:00 AM,,Pioneer Square,7,South,Fuel Sports Eats and Beats,420.0
+07/29/2016 12:00:00 AM,Complete,Special Event,Community,,Weyerhaeuser Grand Opening,S16OC415,10/21/2016 12:00:00 AM,10/21/2016 12:00:00 AM,,Pioneer Square,7,South,Dover Entertainment,800.0
+07/29/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,End AIDS Walk & 5K Run,S16SE416,09/24/2016 12:00:00 AM,09/24/2016 12:00:00 AM,Volunteer Park,Capitol Hill,3,East,Lifelong,2150.0
+08/01/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Women of Wonder 10K & 5K Run & Walk,S16SE417,09/11/2016 12:00:00 AM,09/11/2016 12:00:00 AM,Greenlake Park,Green Lake,6,North,"Pro-Motion Events, Inc",1750.0
+08/29/2016 12:00:00 AM,Cancelled,Special Event,Free Speech,,A21 Walk For Freedom,S16OC445,10/15/2016 12:00:00 AM,10/15/2016 12:00:00 AM,,Downtown,7,West,City Church,200.0
+08/30/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Washington State Nurses Association Informational Picket - Seattle Children's Hospital,S16SE446,09/13/2016 12:00:00 AM,09/13/2016 12:00:00 AM,,Laurelhurst,4,East,Washington State Nurses Association,415.0
+08/30/2016 12:00:00 AM,Complete,Special Event,Commercial,,Winter Beer Festival,S16DE447,12/02/2016 12:00:00 AM,12/03/2016 12:00:00 AM,Magnuson Park,Sand Point,4,East,Washington Brewers Guild,3600.0
+08/29/2016 12:00:00 AM,Complete,Special Event,Community,,UW Husky Marching Band Pre-Game Rally (9.9),S16SE448,09/09/2016 12:00:00 AM,09/09/2016 12:00:00 AM,,University District,4,North,University of Washington Husky Marching Band,1000.0
+08/29/2016 12:00:00 AM,Complete,Special Event,Community,,UW Husky Marching Band Pre-Game Rally (9.29),S16SE449,09/29/2016 12:00:00 AM,09/29/2016 12:00:00 AM,,University District,4,North,University of Washington Husky Marching Band,1000.0
+08/29/2016 12:00:00 AM,Complete,Special Event,Community,,UW Husky Marching Band Pre-Game Rally (10.21),S16OC450,10/21/2016 12:00:00 AM,10/21/2016 12:00:00 AM,,University District,4,North,University of Washington Husky Marching Band,1000.0
+08/29/2016 12:00:00 AM,Complete,Special Event,Community,,UW Husky Marching Band Pre-Game Rally (11.11),S16NO451,11/11/2016 12:00:00 AM,11/11/2016 12:00:00 AM,,University District,4,North,University of Washington Husky Marching Band,1000.0
+08/29/2016 12:00:00 AM,Complete,Special Event,Community,,UW Husky Marching Band Pre-Game Rally (11.18),S16NO452,11/18/2016 12:00:00 AM,11/18/2016 12:00:00 AM,,University District,4,North,University of Washington Husky Marching Band,1000.0
+09/01/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Team RWB Old Glory Relay,S16SE453,09/11/2016 12:00:00 AM,09/11/2016 12:00:00 AM,,Multiple Neighborhoods,2;7,North,Microsoft - Team RWB,150.0
+09/01/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Dawg Dash,S16OC454,10/23/2016 12:00:00 AM,10/23/2016 12:00:00 AM,,Multiple Neighborhoods,4,North,"University of Washington, Alumni",2700.0
+09/06/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Gen Next (9.14),S16SE455,09/14/2016 12:00:00 AM,09/14/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,20.0
+08/22/2016 12:00:00 AM,Complete,Special Event,Community,,Magnolia Village Halloween Trick or Treat,S16OC442,10/31/2016 12:00:00 AM,10/31/2016 12:00:00 AM,,Magnolia,7,West,Magnolia Chamber of Commerce,955.0
+08/23/2016 12:00:00 AM,Complete,Special Event,Community,,Trolloween and Haunt of Fremont Procession,S16OC443,10/31/2016 12:00:00 AM,10/31/2016 12:00:00 AM,,Fremont,6,North,Fremont Arts Council,400.0
+08/25/2016 12:00:00 AM,Complete,Special Event,Community,,Elysian Brewing’s 2nd Annual Great Pumpkin Weigh-Off,S16OC444,10/01/2016 12:00:00 AM,10/01/2016 12:00:00 AM,,Georgetown,2,South,Elysian Brewing,300.0
+09/06/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Fashion First,S16SE456,09/16/2016 12:00:00 AM,09/16/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,75.0
+09/06/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Georgetown Ballroom,S16SE457,09/21/2016 12:00:00 AM,09/21/2016 12:00:00 AM,,Georgetown,2,South,Red Carpet Valet,100.0
+09/06/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Showbox Sodo,S16DE458,12/04/2016 12:00:00 AM,12/04/2016 12:00:00 AM,,Sodo,2,West,Red Carpet Valet,120.0
+09/08/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Merrill Gardens,S16SE459,09/29/2016 12:00:00 AM,09/29/2016 12:00:00 AM,,Ballard,6,North,Red Carpet Valet,75.0
+09/09/2016 12:00:00 AM,Complete,Valet Parking,,,Gail & Rice Media Drive,S16SE460,09/09/2016 12:00:00 AM,09/17/2016 12:00:00 AM,,Downtown,7,West,"Gail & Rice, Inc.",200.0
+10/17/2016 12:00:00 AM,Complete,Special Event,Community,,76 Seafair Holiday Cruise,S16DE495,12/04/2016 12:00:00 AM,12/04/2016 12:00:00 AM,,South Lake Union,3,West,Seafair Foundation,1800.0
+10/19/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Proton 360,S16OC496,10/27/2016 12:00:00 AM,10/27/2016 12:00:00 AM,,Pioneer Square,7,South,Red Carpet Valet,40.0
+10/24/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (10.27),S16OC497,10/27/2016 12:00:00 AM,10/27/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,505.0
+10/24/2016 12:00:00 AM,Complete,Special Event,Community,,Boo Bash at the Beach,S16OC498,10/31/2016 12:00:00 AM,10/31/2016 12:00:00 AM,,Rainier Valley,2,South,Southeast Effective Development/SEED,2100.0
+10/25/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Trove,S16NO499,11/03/2016 12:00:00 AM,11/03/2016 12:00:00 AM,,Capitol Hill,3,East,Red Carpet Valet,60.0
+10/25/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Grim Home,S16OC500,10/29/2016 12:00:00 AM,10/29/2016 12:00:00 AM,,Capitol Hill,3,East,Butler Valet,100.0
+10/28/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (10.30),S16OC501,10/30/2016 12:00:00 AM,10/30/2016 12:00:00 AM,,Pioneer Square,3,West,Seattle Sounders FC,505.0
+10/27/2016 12:00:00 AM,Complete,Special Event,Community,,Alley Lights,S16DE502,12/03/2016 12:00:00 AM,12/03/2016 12:00:00 AM,,University District,4,North,The U District Partnership,110.0
+10/27/2016 12:00:00 AM,Complete,Special Event,Community,,Queen City Yacht Club Presents Chet Gibson Memorial Lighted Boat Parade,S16DE503,12/09/2016 12:00:00 AM,12/10/2016 12:00:00 AM,,South Lake Union,3,West,Queen City Yacht Club,40.0
+11/02/2016 12:00:00 AM,Complete,Valet Parking,,,Four Park Avenue - Pacific Northwest Ballet Opening Night,S16NO504,11/04/2016 12:00:00 AM,11/04/2016 12:00:00 AM,,Queen Anne,7,West,Four Park Avenue,30.0
+11/03/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Showbox Sodo,S16NO505,11/10/2016 12:00:00 AM,11/10/2016 12:00:00 AM,,Sodo,2,West,Red Carpet Valet,90.0
+11/03/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Shade Store,S16NO506,11/09/2016 12:00:00 AM,11/09/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,50.0
+11/01/2016 12:00:00 AM,Complete,Special Event,Community,,New Year's at the Needle,S16DE507,12/31/2016 12:00:00 AM,12/31/2016 12:00:00 AM,,Queen Anne,7,West,Seattle Needle LLC,25100.0
+11/07/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (11.22),S16NO508,11/22/2016 12:00:00 AM,11/22/2016 12:00:00 AM,Occidental Park,Pioneer Square,7,West,Seattle Sounders FC,500.0
+11/07/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Swedish Cherry Hill,S16NO509,11/09/2016 12:00:00 AM,11/09/2016 12:00:00 AM,,First Hill,3,East,Butler Valet,250.0
+11/09/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Metropolis,S16NO510,11/17/2016 12:00:00 AM,11/17/2016 12:00:00 AM,,Sodo,2,West,Red Carpet Valet,40.0
+09/08/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Indigenous Peoples' Day Celebration March,S16OC461,10/10/2016 12:00:00 AM,10/10/2016 12:00:00 AM,,Downtown,7,West,Canoes C/O Shannon Morrison,220.0
+09/09/2016 12:00:00 AM,Complete,Special Event,Free Speech,,"Water is Life - ""Mni Wiconi""",S16SE462,09/16/2016 12:00:00 AM,09/16/2016 12:00:00 AM,,Downtown,7,West,Ndns for Justice,220.0
+09/09/2016 12:00:00 AM,Complete,Special Event,Community,,"Toth Construction, Inc Open Haus/Oktoberfest",S16OC463,10/06/2016 12:00:00 AM,10/06/2016 12:00:00 AM,,Georgetown,2,South,Toth Construction,600.0
+09/12/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet  - Fremont Studios (10.4),S16OC464,10/04/2016 12:00:00 AM,10/04/2016 12:00:00 AM,,Fremont,6,North,Red Carpet Valet,65.0
+09/12/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Seattle Art Museum,S16OC465,10/07/2016 12:00:00 AM,10/07/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,125.0
+09/12/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Holy Names Academy,S16OC466,10/12/2016 12:00:00 AM,10/12/2016 12:00:00 AM,,Capitol Hill,3,East,Red Carpet Valet,80.0
+09/12/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Fremont Studios (12.3),S16DE467,12/03/2016 12:00:00 AM,12/03/2016 12:00:00 AM,,Fremont,6,North,Red Carpet Valet,400.0
+09/12/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Foster White Gallery,S16DE468,12/10/2016 12:00:00 AM,12/10/2016 12:00:00 AM,,Sodo,2,West,Red Carpet Valet,50.0
+09/12/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Jingle Bell Run/Walk,S16DE469,12/11/2016 12:00:00 AM,12/11/2016 12:00:00 AM,,Downtown,7,West,Arthritis Foundation,10500.0
+08/13/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Aegis of Queen Anne Rodgers Park,S16SE470,09/17/2016 12:00:00 AM,09/17/2016 12:00:00 AM,,Queen Anne,7,West,Butler Valet,250.0
+09/14/2016 12:00:00 AM,Complete,Special Event,Community,,Corson Building Wedding (10.8),S16OC471,10/08/2016 12:00:00 AM,10/08/2016 12:00:00 AM,,Georgetown,2,South,The Corson Building,92.0
+09/16/2016 12:00:00 AM,Cancelled,Special Event,Free Speech,,Ethiopian Community Protest Rally,S16SE472,09/19/2016 12:00:00 AM,09/19/2016 12:00:00 AM,,Downtown,3,West,Ethiopians in Seattle,520.0
+08/10/2016 12:00:00 AM,Complete,Special Event,Community,,PAX West - Magic the Gathering Procession,S16SE432,09/03/2016 12:00:00 AM,09/03/2016 12:00:00 AM,,Downtown,3,West,Siteline Productions,25.0
+08/12/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Ethiopian Community Public Protest,S16AU433,08/16/2016 12:00:00 AM,08/16/2016 12:00:00 AM,,Downtown,7,West,Ethiopians in Seattle,500.0
+08/15/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Oromo Community Rally Against Ethiopian Government,S16AU434,08/18/2016 12:00:00 AM,08/18/2016 12:00:00 AM,,Downtown,7,West,Oromo Community Service of Seattle,400.0
+08/15/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Montlake Community Club 5K Turkey Trot and Kids Run,S16NO435,11/24/2016 12:00:00 AM,11/24/2016 12:00:00 AM,,Montlake,3,North,Montlake Community Club,430.0
+08/16/2016 12:00:00 AM,Complete,Special Event,Community,,Bizzarro Italian Café Celebration,S16OC436,10/01/2016 12:00:00 AM,10/01/2016 12:00:00 AM,,Wallingford,4,North,Bizzarro Italian Café,425.0
+08/16/2016 12:00:00 AM,Complete,Special Event,Community,,West Seattle Harvest Festival,S16OC437,10/30/2016 12:00:00 AM,10/30/2016 12:00:00 AM,,West Seattle,1,West,West Seattle Junction Association,550.0
+08/16/2016 12:00:00 AM,Complete,Special Event,Community,,West Seattle Hometown Holidays,S16DE438,12/03/2016 12:00:00 AM,12/03/2016 12:00:00 AM,,West Seattle,1,West,West Seattle Junction Association,770.0
+08/17/2016 12:00:00 AM,Complete,Special Event,Community,,Tag and Table,S16SE439,09/18/2016 12:00:00 AM,09/18/2016 12:00:00 AM,,Capitol Hill,3,East,Les Dames D'Escoffier Seattle Chapter,220.0
+08/17/2016 12:00:00 AM,Complete,Special Event,Community,,Leschi 5th Annual Community Festival,S16SE440,09/10/2016 12:00:00 AM,09/10/2016 12:00:00 AM,,Leschi,3;4,West,Leschi Business Association/ Leschi Community Council,330.0
+08/18/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,The Mustache Dache,S16NO441,11/06/2016 12:00:00 AM,11/06/2016 12:00:00 AM,Magnuson Park,Sand Point,4,North,Fizz Events LLC,1425.0
+05/31/2016 12:00:00 AM,Complete,Special Event,Commercial,,CBS Radio Hometown Hangar (12.24),S16DE324,12/24/2016 12:00:00 AM,12/24/2016 12:00:00 AM,,Sodo,2,South,CBS Seattle,770.0
+05/31/2016 12:00:00 AM,Complete,Charter Vessel,,,Sternwheeler Charters - Christine W,CV16JY325,07/04/2016 12:00:00 AM,07/04/2016 12:00:00 AM,,Wallingford,4,North,Stenwheeler Charters LLC,49.0
+05/31/2016 12:00:00 AM,Complete,Charter Vessel,,,Anchor Bay Charters - Seeker,CV16JY326,07/04/2016 12:00:00 AM,07/04/2016 12:00:00 AM,,Wallingford,4,North,Anchor Bay Charters,30.0
+05/31/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Tracing our Steps,S16JU327,06/25/2016 12:00:00 AM,06/25/2016 12:00:00 AM,,Beacon Hill,2,South,Chinese Baptist Church,175.0
+06/01/2016 12:00:00 AM,Complete,Charter Vessel,,,Waterways Cruises-Emerald Star,CV16JY328,07/04/2016 12:00:00 AM,07/04/2016 12:00:00 AM,,Wallingford,4,North,Waterways Cruises,100.0
+06/01/2016 12:00:00 AM,Complete,Charter Vessel,,,Waterways Cruises-Olympic Star,CV16JY329,07/04/2016 12:00:00 AM,07/04/2016 12:00:00 AM,,Wallingford,4,North,Waterways Cruises,90.0
+06/01/2016 12:00:00 AM,Complete,Charter Vessel,,,Waterways Cruises-West Star,CV16JY330,07/04/2016 12:00:00 AM,07/04/2016 12:00:00 AM,,Wallingford,4,North,Waterways Cruises,70.0
+06/01/2016 12:00:00 AM,Complete,Charter Vessel,,,Waterways Cruises-Destiny,CV16JY331,07/04/2016 12:00:00 AM,07/04/2016 12:00:00 AM,,Wallingford,4,North,Waterways Cruises,20.0
+06/01/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet-Seattle Aquarium SPLASH,S16JU332,06/04/2016 12:00:00 AM,06/04/2016 12:00:00 AM,,Downtown,7,West,Butler Valet,200.0
+06/02/2016 12:00:00 AM,Complete,Special Event,Community,,Celebrate Little Saigon,S16AU333,08/28/2016 12:00:00 AM,08/28/2016 12:00:00 AM,,International District,2,West,Friends of Little Saigon,330.0
+05/12/2016 12:00:00 AM,Complete,Special Event,Commercial,,HTC Home Run Derby with Robinson Cano of the Seattle Mariners,S16JY295,07/15/2016 12:00:00 AM,07/15/2016 12:00:00 AM,,Pioneer Square,7,South,HTC,110.0
+05/13/2016 12:00:00 AM,Complete,Special Event,Community,,Pista sa Nayon,S16JY296,07/31/2016 12:00:00 AM,07/31/2016 12:00:00 AM,,Seward Park,2,South,Pista sa Nayon,10000.0
+05/17/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Fisher Plaza - Sports Restaurant and Bar,S16MY297,05/21/2016 12:00:00 AM,05/21/2016 12:00:00 AM,,Queen Anne,7,West,Butler Valet,150.0
+05/17/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Lard Butt 1K,S16JU298,06/11/2016 12:00:00 AM,06/11/2016 12:00:00 AM,Magnuson Park,Sand Point,4,North,"Pro-Motion Events, Inc.",1250.0
+05/18/2016 12:00:00 AM,Complete,Special Event,Community,,St. James Cathedral Parish Picnic,S16JY299,07/24/2016 12:00:00 AM,07/24/2016 12:00:00 AM,,First Hill,3,East,St. James Cathedral,520.0
+04/29/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Protest Patty Murray,S16MY274,05/20/2016 12:00:00 AM,05/20/2016 12:00:00 AM,,Downtown,7,West,Kelley Whitty-Sandaker,105.0
+04/29/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - BEC Luncheon at Cinerama,S16MY275,05/05/2016 12:00:00 AM,05/05/2016 12:00:00 AM,,Downtown,7,West,Butler Valet,25.0
+04/29/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Fiestas Patrias 2016,S16SE276,09/17/2016 12:00:00 AM,09/17/2016 12:00:00 AM,,South Park,1,Southwest,Sea Mar Community Health Centers,500.0
+05/02/2016 12:00:00 AM,Complete,Special Event,Commercial,,Café Campagne's Bastille Day Celebration,S16JY277,07/14/2016 12:00:00 AM,07/14/2016 12:00:00 AM,,Downtown,7,West,Café Campagne,325.0
+05/04/2016 12:00:00 AM,Complete,Special Event,Commercial,,Controlled Release Society - (private party),S16JY278,07/19/2016 12:00:00 AM,07/19/2016 12:00:00 AM,,Downtown,7,West,Controlled Release Society,1000.0
+05/04/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,2016 Puget Sound Heart and Stroke Walk,S16OC279,10/15/2016 12:00:00 AM,10/15/2016 12:00:00 AM,,Queen Anne,7,West,American Heart Association,6200.0
+05/06/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Democracy Spring Across America!,S16MY287,05/14/2016 12:00:00 AM,05/14/2016 12:00:00 AM,,Pioneer Square,7,South,Democracy Spring Across America,110.0
+05/06/2016 12:00:00 AM,Complete,Special Event,Community,,Sounders FC March to the Match (7.05),S16JY288,07/05/2016 12:00:00 AM,07/05/2016 12:00:00 AM,,Pioneer Square,7,South,Sounders FC March to the Match,705.0
+05/09/2016 12:00:00 AM,Complete,Special Event,Commercial,,O'Dea High School Spirit Day,S16MY289,05/20/2016 12:00:00 AM,05/20/2016 12:00:00 AM,,First Hill,3,East,O'Dea High School,475.0
+05/11/2016 12:00:00 AM,Complete,Valet Parking,,,Luxe Valet Inc - Mariner's Game,S16MY290,05/27/2016 12:00:00 AM,05/27/2016 12:00:00 AM,,Sodo,2,South,Luxe Valet Inc,20.0
+05/11/2016 12:00:00 AM,Cancelled,Special Event,Athletic,Run/Walk,10936.1 Yard Dash,S16OC291,10/15/2016 12:00:00 AM,10/15/2016 12:00:00 AM,Lake Union Park,Westlake,3;4;7,West,Flow Fitness,600.0
+05/18/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet - Fremont Foundry (5.23),S16MY300,05/23/2016 12:00:00 AM,05/23/2016 12:00:00 AM,,Fremont,6,North,Red Carpet Valet,100.0
+05/20/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Furry 5K Fun Run and Walk,S16JU301,06/12/2016 12:00:00 AM,06/12/2016 12:00:00 AM,Seward Park,Seward Park,2,South,City of Seattle/Animal Shelter,2600.0
+05/20/2016 12:00:00 AM,Complete,Special Event,Community,,Sustainable Ballard Festival,S16AU302,08/27/2016 12:00:00 AM,08/27/2016 12:00:00 AM,Ballard Commons Park,Ballard,6,North,Sustainable Ballard,4100.0
+05/16/2016 12:00:00 AM,Complete,Special Event,Community,,West Seattle Summer Fest,S16JY303,07/08/2016 12:00:00 AM,07/10/2016 12:00:00 AM,,West Seattle,1,West,West Seattle Junction Association,24100.0
+05/20/2016 12:00:00 AM,Complete,Special Event,Commercial,,CBS Radio Tailgate Country Cares,S16JY304,07/23/2016 12:00:00 AM,07/23/2016 12:00:00 AM,,Sodo,2,South,CBS,770.0
+07/21/2016 12:00:00 AM,Complete,Special Event,Community,,Belltown Crush Block Party,S16AU404,08/28/2016 12:00:00 AM,08/28/2016 12:00:00 AM,,Belltown,7,West,Plymouth Housing Group,425.0
+07/22/2016 12:00:00 AM,Complete,Special Event,Athletic,Water,Seattle Row for the Cure,S16SE405,09/18/2016 12:00:00 AM,09/18/2016 12:00:00 AM,,South Lake Union,3;4;6;7,West,George Pocock Rowing Foundation,1000.0
+07/25/2016 12:00:00 AM,Complete,Special Event,Community,,Fuel Outdoor Beer Garden (8.21),S16AU406,08/21/2016 12:00:00 AM,08/21/2016 12:00:00 AM,,Pioneer Square,7,South,Fuel Sports Eats and Beats,420.0
+07/25/2016 12:00:00 AM,Complete,Special Event,Community,,Fuel Outdoor Beer Garden (9.11),S16SE407,09/11/2016 12:00:00 AM,09/11/2016 12:00:00 AM,,Pioneer Square,7,South,Fuel Sports Eats and Beats,420.0
+09/21/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Agros - Fremont Studios,S16SE473,09/23/2016 12:00:00 AM,09/23/2016 12:00:00 AM,,Fremont,6,North,Butler Valet,150.0
+09/21/2016 12:00:00 AM,Complete,Valet Parking,,,Butlet Valet - World Concern - Fremont Studios,S16SE474,09/25/2016 12:00:00 AM,09/25/2016 12:00:00 AM,,Fremont,6,North,Butler Valet,225.0
+09/22/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Grand Protest of Ethiopians in Seattle,S16OC475,10/11/2016 12:00:00 AM,10/11/2016 12:00:00 AM,,Belltown,7,West,Ethiopians Public Forum in Seattle,100.0
+09/22/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Westward Boat Cruises,S16OC476,10/07/2016 12:00:00 AM,10/07/2016 12:00:00 AM,,South Lake Union,3,West,Red Carpet Valet,60.0
+09/22/2016 12:00:00 AM,Complete,Special Event,Community,,Plaza Roberto Maestas Grand Opening Ceremony,S16OC477,10/01/2016 12:00:00 AM,10/01/2016 12:00:00 AM,,Beacon Hill,2,South,El Centro de La Raza,1250.0
+09/22/2016 12:00:00 AM,Complete,Special Event,Community,,Book Signing,S16OC478,10/01/2016 12:00:00 AM,10/01/2016 12:00:00 AM,,Capitol Hill,3,East,Elliott Bay Book Co,1530.0
+07/20/2016 12:00:00 AM,Complete,Special Event,Community,,HRS Back to School BBQ,S16SE403,09/09/2016 12:00:00 AM,09/09/2016 12:00:00 AM,,Beacon Hill,3,South,Hamlin Robinson School,500.0
+07/25/2016 12:00:00 AM,Complete,Special Event,Community,,Fuel Outdoor Beer Garden (9.25),S16SE408,09/25/2016 12:00:00 AM,09/25/2016 12:00:00 AM,,Pioneer Square,7,South,Fuel Sports Eats and Beats,420.0
+07/26/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,The Susan G. Komen Seattle 3-Day,S16SE409,09/16/2016 12:00:00 AM,09/18/2016 12:00:00 AM,,Lower Queen Anne,2;3;4;7,West,"The Susan G Komen Breast Cancer Foundation, Inc",1550.0
+07/26/2016 12:00:00 AM,Complete,Special Event,Community,,SODO Flea,S16SE410,09/10/2016 12:00:00 AM,09/10/2016 12:00:00 AM,,Sodo,2,West,Rejuvenation,700.0
+07/27/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Menorah Lighting Celebration,S16DE411,12/25/2016 12:00:00 AM,12/25/2016 12:00:00 AM,,Queen Anne,7,West,Chabad of Queen Anne,
+07/18/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,The Great Kilted Run,S16AU396,08/28/2016 12:00:00 AM,08/28/2016 12:00:00 AM,Magnuson Park,Sand Point,4,North,"Pro-Motion Events, Inc.",400.0
+07/19/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Fare Start,S16JY397,07/30/2016 12:00:00 AM,07/30/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,100.0
+07/19/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Chihuly Studios Boathouse (8.6),S16AU398,08/06/2016 12:00:00 AM,08/06/2016 12:00:00 AM,,Wallingford,4,North,Red Carpet Valet,80.0
+07/19/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Miller Nash Graham and Dunn,S16AU399,08/11/2016 12:00:00 AM,08/11/2016 12:00:00 AM,,Belltown,7,West,Red Carpet Valet,200.0
+07/19/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet- Mortons Celebrity Steakout,S16AU400,08/23/2016 12:00:00 AM,08/23/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,100.0
+07/19/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - UW Medicine Advancement,S16SE401,09/15/2016 12:00:00 AM,09/16/2016 12:00:00 AM,,South Lake Union,7,West,Red Carpet Valet,85.0
+07/20/2016 12:00:00 AM,Cancelled,Special Event,Athletic,Cycling,Ride Around the Sound,S16SE402,09/17/2016 12:00:00 AM,09/17/2016 12:00:00 AM,,Downtown,7,West,American Lung Association of the Mountain Pacific,265.0
+07/27/2016 12:00:00 AM,Complete,Special Event,Community,,Corson Building Wedding (8.20),S16AU412,08/20/2016 12:00:00 AM,08/20/2016 12:00:00 AM,,Georgetown,2,South,The Corson Building,68.0
+08/02/2016 12:00:00 AM,Cancelled,Special Event,Community,,SCC 50th Anniversary Celebration,S16SE418,09/22/2016 12:00:00 AM,09/22/2016 12:00:00 AM,,Capitol Hill,3,East,Seattle Central College,500.0
+08/02/2016 12:00:00 AM,Complete,Special Event,Community,,Greek Community Block Party,S16OC419,10/05/2016 12:00:00 AM,10/05/2016 12:00:00 AM,,University District,4,North,Interfraternity Council and Panhellenic Council at the University of Washington,900.0
+08/03/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Gen Next,S16AU420,08/11/2016 12:00:00 AM,08/11/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,20.0
+08/03/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Carpenters 4 Carpenters Rally and March to Trust Office,S16AU421,08/04/2016 12:00:00 AM,08/04/2016 12:00:00 AM,,Belltown,7,West,Carpenters 4 Carpenters,250.0
+08/02/2016 12:00:00 AM,Complete,Special Event,Community,,C-ID Night Market,S16SE422,09/10/2016 12:00:00 AM,09/10/2016 12:00:00 AM,,International District,2,West,Chinatown International District Business Improvement Area,7600.0
+08/03/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Magnolia Run the Bluff,S16OC423,10/02/2016 12:00:00 AM,10/02/2016 12:00:00 AM,,Magnolia,7,West,"Pro-Motion Events, Inc",900.0
+08/03/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Green Lake Gobble 10K & 5K Run and Walk,S16NO424,11/20/2016 12:00:00 AM,11/20/2016 12:00:00 AM,,Green Lake,6,North,"Pro-Motion Events, Inc",1750.0
+04/08/2016 12:00:00 AM,Complete,Special Event,Community,,Umoja Fest Africatown Heritage Festival Parade March,S16AU237,08/06/2016 12:00:00 AM,08/06/2016 12:00:00 AM,,Central District,3,East,Umoja Fest,975.0
+04/08/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Fight Back Islamophobia & Dump Trump,S16AP238,04/09/2016 12:00:00 AM,04/09/2016 12:00:00 AM,,Downtown,7,West,Americans for Refugees and Immigrants,220.0
+04/08/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Estelle Thyer,S16AP239,04/14/2016 12:00:00 AM,04/14/2016 12:00:00 AM,,Capitol Hill,3,East,Red Carpet Valet,25.0
+04/08/2016 12:00:00 AM,Complete,Special Event,Community,,Ballard SeafoodFest 2016,S16JY240,07/09/2016 12:00:00 AM,07/10/2016 12:00:00 AM,,Ballard,6,North,The Ballard Chamber of Commerce,49970.0
+04/08/2016 12:00:00 AM,Complete,Special Event,Community,,Group Hug for the Admiral Theater,S16JU241,06/03/2016 12:00:00 AM,06/03/2016 12:00:00 AM,,West Seattle,1,Southwest,Southwest Seattle Historical Society,800.0
+04/11/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Summer Parkways - Ballard,S16AU242,08/27/2016 12:00:00 AM,08/27/2016 12:00:00 AM,,Ballard,6,North,Seattle Department of Transportation,3150.0
+04/11/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Summer Parkways - Rainier Valley,S16AU243,08/13/2016 12:00:00 AM,08/13/2016 12:00:00 AM,,Rainier Valley,2,South,Seattle Department of Transportation,3150.0
+04/11/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Summer Parkways - West Seattle,S16SE244,09/25/2016 12:00:00 AM,09/25/2016 12:00:00 AM,,West Seattle,1,West,Seattle Department of Transportation,3070.0
+04/12/2016 12:00:00 AM,Complete,Special Event,Athletic,Cycling,Verity Credit Union Classic p/b Ascent Cycles (Ballard Criterium),S16JU245,06/04/2016 12:00:00 AM,06/04/2016 12:00:00 AM,,Ballard,6,North,Apex Racing,600.0
+04/11/2016 12:00:00 AM,Complete,Special Event,Athletic,Cycling,Georgetown Criterium,S16JY246,07/17/2016 12:00:00 AM,07/17/2016 12:00:00 AM,,Georgetown,2,South,Stranamanti Cycling,500.0
+05/26/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Eats and Beats (8.2),S16AU310,08/02/2016 12:00:00 AM,08/02/2016 12:00:00 AM,,Downtown,7,West,Seafair,200.0
+05/26/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Eats and Beats (8.9),S16AU311,08/09/2016 12:00:00 AM,08/09/2016 12:00:00 AM,,Downtown,7,West,Seafair,200.0
+05/26/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Eats and Beats (8.16),S16AU312,08/16/2016 12:00:00 AM,08/16/2016 12:00:00 AM,,Downtown,7,West,Seafair,200.0
+05/26/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Eats and Beats (8.23),S16AU313,08/23/2016 12:00:00 AM,08/23/2016 12:00:00 AM,,Downtown,7,West,Seafair,200.0
+05/26/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Eats and Beats (8.30),S16AU314,08/30/2016 12:00:00 AM,08/30/2016 12:00:00 AM,,Downtown,7,West,Seafair,200.0
+05/25/2016 12:00:00 AM,Complete,Special Event,Commercial,,Redfest,S16JU315,06/25/2016 12:00:00 AM,06/25/2016 12:00:00 AM,,Georgetown,2,South,Elysian Brewing,999.0
+05/27/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Lark Restaurant,S16JU316,06/16/2016 12:00:00 AM,06/16/2016 12:00:00 AM,,Capitol Hill,3,East,Red Carpet Valet,15.0
+05/27/2016 12:00:00 AM,Complete,Special Event,Commercial,,Seafair Indian Pow Wow,S16JY317,07/15/2016 12:00:00 AM,07/17/2016 12:00:00 AM,,Magnolia,1,South,United Indians of All Tribes Foundation,7150.0
+05/31/2016 12:00:00 AM,Complete,Special Event,Community,,14/48:  Outdoors,S16AU318,08/24/2016 12:00:00 AM,08/28/2016 12:00:00 AM,,Ballard,6,North,The 14/48 Projects,802.0
+06/03/2016 12:00:00 AM,Complete,Special Event,Community,,Bastille Dinner 2016,S16JY334,07/14/2016 12:00:00 AM,07/14/2016 12:00:00 AM,,Central District,3,East,"Luc Bistro, Madison Valley Merchants Association",90.0
+06/03/2016 12:00:00 AM,Complete,Special Event,Commercial,,Bumbershoot Festival [Street Use],S16SE335,08/26/2016 12:00:00 AM,09/08/2016 12:00:00 AM,,Queen Anne,7,West,"AEG Live NW, LLC",105600.0
+05/11/2016 12:00:00 AM,Complete,Special Event,Commercial,,Postback,S16JY292,07/22/2016 12:00:00 AM,07/22/2016 12:00:00 AM,,South Lake Union,4,West,TUNE,650.0
+05/11/2016 12:00:00 AM,Complete,Special Event,Community,,GPK,S16AU293,08/06/2016 12:00:00 AM,08/06/2016 12:00:00 AM,,Georgetown,2,South,GPK,4150.0
+05/12/2016 12:00:00 AM,Complete,Special Event,Community,,PrideFest Capitol Hill,S16JU294,06/25/2016 12:00:00 AM,06/25/2016 12:00:00 AM,,Capitol Hill,3,East,PrideFest,5030.0
+06/06/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Seattle U / Matteo Ricci College Rally to Support Dean Kelly,S16JU336,06/09/2016 12:00:00 AM,06/09/2016 12:00:00 AM,,Capitol Hill,3,East,Alumni of Seattle University,50.0
+06/07/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Design Festival Block Party,S16SE337,09/10/2016 12:00:00 AM,09/11/2016 12:00:00 AM,,Pioneer Square,7,West,Design in Public (Pacific Northwest Center for Architecture and Design),2000.0
+06/07/2016 12:00:00 AM,Complete,Special Event,Community,,Chinatown Seafair Parade,S16JY338,07/24/2016 12:00:00 AM,07/24/2016 12:00:00 AM,,International District,2,West,The Greater Seattle Chinese Chamber of Commerce,9500.0
+06/07/2016 12:00:00 AM,Complete,Special Event,Community,,Bite of Broadview,S16SE339,09/23/2016 12:00:00 AM,09/25/2016 12:00:00 AM,,Broadview,5,North,Christ the King Catholic Church,2090.0
+09/22/2016 12:00:00 AM,Complete,Special Event,Community,,Sodo Flea (10.8),S16OC479,10/08/2016 12:00:00 AM,10/08/2016 12:00:00 AM,,Sodo,2,West,Rejuvenation,2030.0
+09/22/2016 12:00:00 AM,Complete,Special Event,Community,,Sodo Flea (11.12),S16NO480,11/12/2016 12:00:00 AM,11/12/2016 12:00:00 AM,,Sodo,2,West,Rejuvenation,2030.0
+09/22/2016 12:00:00 AM,Cancelled,Special Event,Community,,Sodo Flea (12.10),S16DE481,12/10/2016 12:00:00 AM,12/10/2016 12:00:00 AM,,Sodo,2,West,Rejuvenation,2030.0
+09/28/2016 12:00:00 AM,Complete,Special Event,Community,,Benefit for NW Harvest/ Don Steven's Birthday and Celebration of Life,S16OC482,10/04/2016 12:00:00 AM,10/04/2016 12:00:00 AM,,Capitol Hill,3,East,Bill's off Broadway Restaurant,315.0
+09/27/2016 12:00:00 AM,Complete,Special Event,Community,,USC Trojan Marching Band Pep Rally,S16NO483,11/11/2016 12:00:00 AM,11/11/2016 12:00:00 AM,,South Lake Union,3,West,Lake Union Park,180.0
+08/03/2016 12:00:00 AM,Complete,Special Event,Community,,Double Tenth Flag Raising and Parade,S16OC425,10/09/2016 12:00:00 AM,10/09/2016 12:00:00 AM,,International District,2,West,Taiwanese Chamber of Commerce of Seattle,350.0
+08/03/2016 12:00:00 AM,Complete,Special Event,Community,,Boogie Nights,S16OC426,10/29/2016 12:00:00 AM,10/29/2016 12:00:00 AM,,Green Lake,6,North,"Pro-Motion Events, Inc",340.0
+08/05/2016 12:00:00 AM,Complete,Special Event,Community,,Emerald City Pet Rescue Second Annual Anniversary Event,S16AU427,08/27/2016 12:00:00 AM,08/27/2016 12:00:00 AM,,Sodo,2,West,Emerald City Pet Rescue,300.0
+08/05/2016 12:00:00 AM,Complete,Special Event,Community,,S Spencer Street International Block Party,S16SE428,09/10/2016 12:00:00 AM,09/10/2016 12:00:00 AM,,Beacon Hill,2,South,So Spencer Street Steering Committee,320.0
+08/08/2016 12:00:00 AM,Complete,Special Event,Commercial,,Seattle Symphony Friday Matinees Concert,S16SE429,09/30/2016 12:00:00 AM,09/30/2016 12:00:00 AM,,Downtown,7,West,Seattle Symphony/Benaroya Hall,198.0
+06/13/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Trans Pride Seattle 2016,S16JU340,06/24/2016 12:00:00 AM,06/24/2016 12:00:00 AM,,Capitol Hill,3,East,Gender Justice League,950.0
+06/13/2016 12:00:00 AM,Complete,Charter Vessel,,,Argosy Cruises - Sightseer,CV16JY341,07/04/2016 12:00:00 AM,07/04/2016 12:00:00 AM,,Wallingford,4,North,Argosy Cruises,250.0
+06/13/2016 12:00:00 AM,Complete,Charter Vessel,,,Argosy Cruises - Champagne Lady,CV16JY342,07/04/2016 12:00:00 AM,07/04/2016 12:00:00 AM,,Wallingford,4,North,Argosy Cruises,149.0
+06/13/2016 12:00:00 AM,Complete,Charter Vessel,,,Argosy Cruises - Lady Mary,CV16JY343,07/04/2016 12:00:00 AM,07/04/2016 12:00:00 AM,,Wallingford,4,North,Argosy Cruises,298.0
+06/13/2016 12:00:00 AM,Complete,Charter Vessel,,,Argosy Cruises - Celebrations,CV16JY344,07/04/2016 12:00:00 AM,07/04/2016 12:00:00 AM,,Wallingford,4,North,Argosy Cruises,149.0
+06/13/2016 12:00:00 AM,Cancelled,Special Event,Commercial,,Rave Foundation Beer Garden at The NINETY,S16JY345,07/31/2016 12:00:00 AM,07/31/2016 12:00:00 AM,,Pioneer Square,2,West,Rave Foundation,85.0
+06/13/2016 12:00:00 AM,Cancelled,Special Event,Commercial,,Rave Foundation Beer Garden at the NINETY,S16AU346,08/14/2016 12:00:00 AM,08/14/2016 12:00:00 AM,,Pioneer Square,2,West,Rave Foundation,85.0
+06/13/2016 12:00:00 AM,Complete,Special Event,Commercial,,Rave Foundation Beer Garden at the NINETY,S16AU347,08/21/2016 12:00:00 AM,08/21/2016 12:00:00 AM,,Pioneer Square,2,West,Rave Foundation,85.0
+06/13/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Prayer & Procession for Orlando Victims,S16JU348,06/15/2016 12:00:00 AM,06/15/2016 12:00:00 AM,,Capitol Hill,3,East,St. James Cathedral,1000.0
+06/16/2016 12:00:00 AM,Complete,Special Event,Community,,American Outlaws March to the Match,S16JU349,06/16/2016 12:00:00 AM,06/16/2016 12:00:00 AM,,Pioneer Square,3,West,American Outlaws Tacoma,705.0
+06/15/2016 12:00:00 AM,Complete,Special Event,Community,,St. Benedict Wallingford Wurst Festival,S16SE350,09/16/2016 12:00:00 AM,09/17/2016 12:00:00 AM,,Wallingford,4,North,St. Benedict Parish & School,4800.0
+08/08/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Smith Tower,S16AU430,08/23/2016 12:00:00 AM,08/24/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,70.0
+06/16/2016 12:00:00 AM,In Process,Special Event,Commercial,,These Are The Drones You're Looking For,S16JY351,10/22/2016 12:00:00 AM,10/22/2016 12:00:00 AM,Magnuson Park,Sand Point,4,North,"UIEvolution, Inc",125.0
+06/17/2016 12:00:00 AM,Cancelled,Special Event,Commercial,,Trucktoberfest,S16OC352,10/01/2016 12:00:00 AM,10/02/2016 12:00:00 AM,,South Lake Union,7,West,Piranha Blonde Interactive,20040.0
+06/16/2016 12:00:00 AM,Complete,Special Event,Community,,Lake City Pioneer Days Parade,S16AU353,08/06/2016 12:00:00 AM,08/06/2016 12:00:00 AM,,Lake City,5,North,North Seattle Chamber of Commerce Parade Committee,4600.0
+06/19/2016 12:00:00 AM,Complete,Special Event,Community,,Tabernacle Missionary Baptist Church Community BBQ,S16AU354,08/27/2016 12:00:00 AM,08/27/2016 12:00:00 AM,,Leschi,2,West,Tabernacle Missionary Baptist Church,350.0
+06/20/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - 206 Inc,S16JY355,07/07/2016 12:00:00 AM,07/07/2016 12:00:00 AM,,Queen Anne,7,West,Red Carpet Valet,130.0
+06/11/2016 12:00:00 AM,Complete,Valet Parking,,,LAZ Parking - Thompson Hotel Grand Opening,S16JU356,06/28/2016 12:00:00 AM,06/28/2016 12:00:00 AM,,Downtown,7,West,LAZ Parking,300.0
+06/21/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Debre Genet Kidisti Sellassie Eritrean Orthodox Church,S16JY357,07/16/2016 12:00:00 AM,07/16/2016 12:00:00 AM,,Central District,3,East,Debre Genet Kidisti Sellassie  Eritrean Orthodox Church,200.0
+06/10/2016 12:00:00 AM,Complete,Special Event,Community,,Greenwood Blasts Off Community Summer Concert,S16AU358,08/28/2016 12:00:00 AM,08/28/2016 12:00:00 AM,,Greenwood,6,North,School of Rock,840.0
+06/20/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Trot to Yacht,S16SE359,09/25/2016 12:00:00 AM,09/25/2016 12:00:00 AM,,South Lake Union,3,West,Flying Unicorn Racing,600.0
+06/21/2016 12:00:00 AM,In Process,Special Event,Community,,Magnuson Series Beer Garden,S16AU360,08/13/2016 12:00:00 AM,08/13/2016 12:00:00 AM,,Sand Point,4,North,Magnuson Series,60.0
+06/22/2016 12:00:00 AM,Complete,Special Event,Community,,Dragon Fest 2016,S16JY361,07/16/2016 12:00:00 AM,07/17/2016 12:00:00 AM,,International District,2,West,Chinatown-International District Business Improvement Area,15400.0
+09/30/2016 12:00:00 AM,Complete,Special Event,Community,,The 30th Annual Great Figgy Pudding Caroling Competition,S16DE484,12/02/2016 12:00:00 AM,12/02/2016 12:00:00 AM,,Downtown,7,West,Pike Market Senior Center & Food Bank,9000.0
+09/30/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - ACT Theatre,S16OC485,10/14/2016 12:00:00 AM,10/14/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,90.0
+10/03/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Seattle Children's Marathon,S16NO486,11/26/2016 12:00:00 AM,11/26/2016 12:00:00 AM,,Queen Anne,7,West,Seattle Marathon Association,3700.0
+10/03/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Seattle Marathon,S16NO487,11/27/2016 12:00:00 AM,11/27/2016 12:00:00 AM,,Multiple Neighborhoods,2;3;7,East;South;West,Seattle Marathon Association,10500.0
+06/23/2016 12:00:00 AM,Complete,Special Event,Commercial,,PAX West,S16SE362,09/02/2016 12:00:00 AM,09/05/2016 12:00:00 AM,,Downtown,7,West,WSCC,100000.0
+06/24/2016 12:00:00 AM,Complete,Charter Vessel,,,Venture Charters - Joker,CV16JY363,07/04/2016 12:00:00 AM,07/04/2016 12:00:00 AM,,Wallingford,4,North,Venture Charters Inc,30.0
+06/24/2016 12:00:00 AM,Cancelled,Special Event,Community,,Art Rising,S16SE364,09/17/2016 12:00:00 AM,09/17/2016 12:00:00 AM,,South Lake Union,7,West,South Lake Union Chamber of Commerce,4050.0
+06/27/2016 12:00:00 AM,Cancelled,Special Event,Community,,Music in the Park (7.21),S16JY365,07/21/2016 12:00:00 AM,07/21/2016 12:00:00 AM,,Madison Park,3,East,Madison Park Business Association,610.0
+06/27/2016 12:00:00 AM,Cancelled,Special Event,Community,,Music in the Park (7.28),S16JY366,07/28/2016 12:00:00 AM,07/28/2016 12:00:00 AM,,Madison Park,3,East,Madison Park Business Association,610.0
+06/27/2016 12:00:00 AM,Cancelled,Special Event,Community,,Music in the Park (8.4),S16AU367,08/04/2016 12:00:00 AM,08/04/2016 12:00:00 AM,,Madison Park,3,East,Madison Park Business Association,610.0
+06/27/2016 12:00:00 AM,Cancelled,Special Event,Community,,Music in the Park (8.11),S16AU368,08/11/2016 12:00:00 AM,08/11/2016 12:00:00 AM,,Madison Park,3,East,Madison Park Business Association,610.0
+06/27/2016 12:00:00 AM,Cancelled,Special Event,Commercial,,Daybreak Festival,S16AU369,08/27/2016 12:00:00 AM,08/27/2016 12:00:00 AM,,Ballard,6,North,"Daybreak, LLC",2100.0
+06/28/2016 12:00:00 AM,Complete,Special Event,Community,,R-Day,S16OC370,10/22/2016 12:00:00 AM,10/22/2016 12:00:00 AM,,Sodo,2,South,KEXP and Boldhat Productions,3020.0
+06/28/2016 12:00:00 AM,Complete,Special Event,Community,,Live in D5,S16AU371,08/13/2016 12:00:00 AM,08/13/2016 12:00:00 AM,,Northgate,5,North,"City of Seattle, City Council Member Debora Juarez",110.0
+06/28/2016 12:00:00 AM,Complete,Special Event,Commercial,,Boats Afloat Show,S16SE372,09/14/2016 12:00:00 AM,09/18/2016 12:00:00 AM,,South Lake Union,3,West,Northwest Yacht Brokers Association,6350.0
+06/28/2016 12:00:00 AM,Cancelled,Special Event,Commercial,,Miss DiJulio Hydro Rally,S16AU373,08/02/2016 12:00:00 AM,08/02/2016 12:00:00 AM,,Downtown,7,West,"Miss DiJulio Racing, LLC",151.0
+06/29/2016 12:00:00 AM,Cancelled,Special Event,Commercial,,Baby and Co 40th Anniversary Celebration,S16SE374,09/09/2016 12:00:00 AM,09/09/2016 12:00:00 AM,,Downtown,7,West,Baby & Company,125.0
+06/29/2016 12:00:00 AM,Complete,Special Event,Commercial,,Corson Building Wedding 7.23,S16JY375,07/23/2016 12:00:00 AM,07/23/2016 12:00:00 AM,,Georgetown,2,South,The Corson Building,105.0
+06/30/2016 12:00:00 AM,Complete,Charter Vessel,,,"Seattle Ferry Services, LLC",CV16JY376,07/04/2016 12:00:00 AM,07/04/2016 12:00:00 AM,,Wallingford,4,North,"Seattle Ferry Services, LLC",42.0
+06/30/2016 12:00:00 AM,Complete,Special Event,Athletic,Water,Head of the Lake,S16NO377,11/06/2016 12:00:00 AM,11/06/2016 12:00:00 AM,,South Lake Union,2,West,Lake Washington Rowing Club,2300.0
+06/29/2016 12:00:00 AM,Complete,Special Event,Commercial,,VA Puget Sound Health Care System Employee Appreciation Picnic,S16AU378,08/16/2016 12:00:00 AM,08/16/2016 12:00:00 AM,,Beacon Hill,2,South,VA Puget Sound Health Care System,950.0
+06/30/2016 12:00:00 AM,Cancelled,Special Event,Free Speech,,Night Light,S16SE379,09/17/2016 12:00:00 AM,09/17/2016 12:00:00 AM,,Bitter Lake,5,North,REST (Real Escape from the Sex Trade),200.0
+07/01/2016 12:00:00 AM,Complete,Special Event,Commercial,,Great Pumpkin Beer Festival,S16OC380,10/08/2016 12:00:00 AM,10/08/2016 12:00:00 AM,,Sodo,2,West,Elysian Brewing,10000.0
+07/01/2016 12:00:00 AM,Complete,Special Event,Commercial,,EPOCH shows at Bad Jimmy's Brewing Co,S16AU381,08/12/2016 12:00:00 AM,08/12/2016 12:00:00 AM,,Ballard,6,North,Kellyco Enterprises,420.0
+07/01/2016 12:00:00 AM,Complete,Special Event,Community,,Mount Baker Town Center: the Design Change Street Festival!,S16SE382,09/18/2016 12:00:00 AM,09/18/2016 12:00:00 AM,,Mount Baker,2,South,"Friends of Mt Baker Town Center (sponsored by Seattle Parks Foundation), with Mt Baker Hub Business Association",315.0
+07/01/2016 12:00:00 AM,Complete,Special Event,Community,,Up Your Ave,S16SE383,09/29/2016 12:00:00 AM,09/29/2016 12:00:00 AM,,University District,4,North,The U District Partnership,1025.0
+07/05/2016 12:00:00 AM,Complete,Special Event,Commercial,,Macefield Music Festival,S16OC384,10/01/2016 12:00:00 AM,10/01/2016 12:00:00 AM,,Ballard,6,North,"Macefield Music Festival, LLC",925.0
+07/05/2016 12:00:00 AM,Complete,Special Event,Community,,Van Haven,S16SE385,09/10/2016 12:00:00 AM,09/10/2016 12:00:00 AM,,Georgetown,2,South,TNE Network,550.0
+07/06/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Seattle Marathon 10K Race,S16AU386,08/26/2016 12:00:00 AM,08/27/2016 12:00:00 AM,,Fremont,4;6,North,Seattle Marathon Association,1600.0
+07/07/2016 12:00:00 AM,Complete,Special Event,Commercial,,First Place Breakfast on the Beach with Luvo Inc and Russell Wilson,S16JY387,07/18/2016 12:00:00 AM,07/18/2016 12:00:00 AM,Gas Works Park,Wallingford,4,North,First Place,
+07/08/2016 12:00:00 AM,Cancelled,Special Event,Community,,Chinatown International District Block Party,S16AU388,08/28/2016 12:00:00 AM,08/28/2016 12:00:00 AM,,International District,2,West,Seattle Chinatown International District Preservation and Development Authority,500.0
+07/08/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Light the Night Walk,S16OC389,10/22/2016 12:00:00 AM,10/22/2016 12:00:00 AM,,Lower Queen Anne,7,West,Leukemia & Lymphoma Society,2100.0
+07/13/2016 12:00:00 AM,Complete,Special Event,Commercial,,NFL Sponsor Appreciation Event,S16OC390,10/16/2016 12:00:00 AM,10/16/2016 12:00:00 AM,,Sodo,2,West,The Travelers Inc/National Event Pros,315.0
+07/13/2016 12:00:00 AM,Complete,Special Event,Free Speech,,St. Gebreal Ethiopian Orthodox Celebration,S16JY391,07/24/2016 12:00:00 AM,07/24/2016 12:00:00 AM,,Central District,2,West,St. Gebreal Ethiopian Orthodox Church,710.0
+07/13/2016 12:00:00 AM,Cancelled,Special Event,Community,,Rave Foundation Occidental Square Event,S16AU392,08/21/2016 12:00:00 AM,08/21/2016 12:00:00 AM,,Pioneer Square,2,West,RAVE Foundation,160.0
+07/13/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Greek Festival,S16OC393,10/07/2016 12:00:00 AM,10/09/2016 12:00:00 AM,,Montlake,3,North,St. Demetrios Greek Orthodox Church,4500.0
+07/14/2016 12:00:00 AM,Complete,Special Event,Community,,Kawabe SummerFest!,S16AU394,08/28/2016 12:00:00 AM,08/28/2016 12:00:00 AM,,Central District,3,East,Kawabe Memorial House,500.0
+07/14/2016 12:00:00 AM,Cancelled,Special Event,Athletic,Run/Walk,PAX 5K,S16SE395,09/01/2016 12:00:00 AM,09/01/2016 12:00:00 AM,,South Lake Union,3,West,Run for Good Racing Co. / Reed Pop,310.0
+11/09/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Holy Names Academy,S16DE511,12/03/2016 12:00:00 AM,12/03/2016 12:00:00 AM,,Capitol Hill,3,East,Red Carpet Valet,100.0
+04/13/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Seafair Pirate Landing,S16JU247,06/25/2016 12:00:00 AM,06/25/2016 12:00:00 AM,Alki Beach,West Seattle,1,West,Seattle Seafair Pirates,3100.0
+04/13/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Children's Health Fair,S16SE248,09/10/2016 12:00:00 AM,09/10/2016 12:00:00 AM,,Cascade,7,West,Seattle Children's,1650.0
+04/14/2016 12:00:00 AM,Complete,Special Event,Athletic,Cycling,Obliteride,S16AU249,08/12/2016 12:00:00 AM,08/14/2016 12:00:00 AM,Gas Works Park,Cascade,1;2;3;4;6;7,North;West,Fred Hutchinson Cancer Research Center,5400.0
+04/15/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,SummeRun&Walk,S16JY250,07/17/2016 12:00:00 AM,07/17/2016 12:00:00 AM,,First Hill,3,West,Swedish Medical Center Foundation,2950.0
+04/18/2016 12:00:00 AM,Complete,Special Event,Free Speech,,International Workers Day March and Rally,S16MY251,05/01/2016 12:00:00 AM,05/01/2016 12:00:00 AM,Judkins Park,Central District,3,East,El -Comite - May 1st Action Coalition,550.0
+04/18/2016 12:00:00 AM,Complete,Special Event,Athletic,Water,Seattle Dragon Boat Festival,S16JY252,07/30/2016 12:00:00 AM,07/30/2016 12:00:00 AM,,South Lake Union,7,West,Paddlepult,1600.0
+04/22/2016 12:00:00 AM,Complete,Special Event,Commercial,,Festival of Fountains - (Street Use),S16JY253,07/22/2016 12:00:00 AM,07/22/2016 12:00:00 AM,,Queen Anne,7,West,Pacific Science Center,850.0
+04/22/2016 12:00:00 AM,In Process,Special Event,Citywide,,Seafair Summer Fourth,S16JY254,07/04/2016 12:00:00 AM,07/04/2016 12:00:00 AM,Gas Works Park,Wallingford,4,North,Seafair,65020.0
+04/22/2016 12:00:00 AM,Complete,Special Event,Community,,Seafair Milk Carton Derby,S16JY255,07/16/2016 12:00:00 AM,07/16/2016 12:00:00 AM,,Green Lake,6,North,Seafair,4150.0
+04/22/2016 12:00:00 AM,Complete,Special Event,Athletic,Run/Walk,Swedish Seafair Triathlon,S16JY256,07/23/2016 12:00:00 AM,07/24/2016 12:00:00 AM,,Seward Park,2;3,South,Seafair,3350.0
+04/22/2016 12:00:00 AM,In Process,Special Event,Citywide,,Torchlight Parade at Seafair,S16JY257,07/30/2016 12:00:00 AM,07/30/2016 12:00:00 AM,,Downtown,7,West,Seafair,251000.0
+05/05/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Fremont Foundry,S16MY285,05/11/2016 12:00:00 AM,05/11/2016 12:00:00 AM,,Fremont,6,North,Red Carpet Valet,100.0
+05/05/2016 12:00:00 AM,Cancelled,Special Event,Commercial,,Starbucks - Sounders Pride Party,S16JU286,06/25/2016 12:00:00 AM,06/25/2016 12:00:00 AM,,Sodo,2,South,Starbucks,875.0
+08/09/2016 12:00:00 AM,Complete,Special Event,Community,,MBCC's Day in the Park Event,S16SE431,09/11/2016 12:00:00 AM,09/11/2016 12:00:00 AM,,Mount Baker,2,South,Mount Baker Community Club,350.0
+10/04/2016 12:00:00 AM,Complete,Special Event,Community,,Magnolia Winterfest,S16NO488,11/26/2016 12:00:00 AM,11/26/2016 12:00:00 AM,,Magnolia,7,West,Magnolia Chamber of Commerce,530.0
+10/05/2016 12:00:00 AM,Complete,Special Event,Community,,All Hands,S16NO489,11/03/2016 12:00:00 AM,11/03/2016 12:00:00 AM,,Multiple Neighborhoods,7,West,Spplus,2940.0
+10/10/2016 12:00:00 AM,Complete,Special Event,Community,,2016 Tree Lighting Celebration,S16NO490,11/25/2016 12:00:00 AM,11/25/2016 12:00:00 AM,,Downtown,7,West,Downtown Seattle Association,3000.0
+10/11/2016 12:00:00 AM,In Process,Special Event,Commercial,,Seattle Symphony Open Rehearsal,S16OC491,10/13/2016 12:00:00 AM,10/13/2016 12:00:00 AM,,Downtown,7,West,Seattle Symphony,1300.0
+10/10/2016 12:00:00 AM,Complete,Special Event,Community,,Dog-o-ween,S16OC492,10/22/2016 12:00:00 AM,10/22/2016 12:00:00 AM,Bell Street Park,Belltown,7,West,Seattle Parks and Recreation,250.0
+10/12/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Palace Ballroom (10.12),S16OC493,10/15/2016 12:00:00 AM,10/15/2016 12:00:00 AM,,Downtown,7,West,Butler Valet,60.0
+10/12/2016 12:00:00 AM,Complete,Special Event,Community,,Seattle Symphony Friday Matinees concert (11.18),S16NO494,11/18/2016 12:00:00 AM,11/18/2016 12:00:00 AM,,Downtown,7,West,Seattle Symphony/Benaroya Hall,329.0
+11/10/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Fred Lind Manor,S16NO512,11/16/2016 12:00:00 AM,11/16/2016 12:00:00 AM,,Capitol Hill,3,East,Red Carpet Valet,25.0
+11/14/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Tiger Oak Publications Fremont Studios,S16NO513,11/17/2016 12:00:00 AM,11/17/2016 12:00:00 AM,,Fremont,6,North,Butler Valet,300.0
+11/14/2016 12:00:00 AM,Complete,Valet Parking,,,Butlet Valet - Seattle Aquarium - Grinstein Memorial,S16NO514,11/20/2016 12:00:00 AM,11/20/2016 12:00:00 AM,,Downtown,7,West,Butler Valet,150.0
+11/15/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - The Ruins,S16NO515,11/26/2016 12:00:00 AM,11/26/2016 12:00:00 AM,,Queen Anne,7,West,Red Carpet Valet,20.0
+11/15/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Sitka and Spruce,S16DE516,12/07/2016 12:00:00 AM,12/07/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,80.0
+04/08/2016 12:00:00 AM,Complete,Special Event,Community,,Umoja Fest Africatown Heritage Festival Rally,S16AU236,08/05/2016 12:00:00 AM,08/07/2016 12:00:00 AM,,Central District,3,East,Umoja Fest,4000.0
+04/25/2016 12:00:00 AM,Complete,Special Event,Community,,McDonald International Elementary School International Night,S16MY258,05/07/2016 12:00:00 AM,05/07/2016 12:00:00 AM,,Wallingford,4,North,McDonald International Elementary School,850.0
+04/25/2016 12:00:00 AM,Complete,Special Event,Community,,Admiral 4th of July Kids Parade,S16JY259,07/04/2016 12:00:00 AM,07/04/2016 12:00:00 AM,Hamilton Viewpoint Park,West Seattle,1,Southwest,FIT4MOM West Seattle,910.0
+04/25/2016 12:00:00 AM,Complete,Special Event,Community,,Rainier Valley Heritage Festival,S16AU260,08/13/2016 12:00:00 AM,08/13/2016 12:00:00 AM,,Rainier Valley,2,South,Rainier Chamber Foundation,3020.0
+04/25/2016 12:00:00 AM,Complete,Special Event,Community,,Rainier Valley Heritage Festival Parade,S16AU261,08/13/2016 12:00:00 AM,08/13/2016 12:00:00 AM,,Rainier Valley,2,South,Rainier Chamber Foundation,3020.0
+05/09/2016 12:00:00 AM,Cancelled,Special Event,Community,,Renegade Craft Fair,S16JY262,07/23/2016 12:00:00 AM,07/24/2016 12:00:00 AM,Magnuson Park,Sand Point,4,North,"Renegade Craft Fair, Inc.",2164.0
+04/25/2016 12:00:00 AM,Complete,Special Event,Community,,Greaseball,S16AU263,08/14/2016 12:00:00 AM,08/14/2016 12:00:00 AM,,Sodo,2,South,"Sea Deli, Inc",325.0
+04/26/2016 12:00:00 AM,Cancelled,Special Event,Athletic,Water,Takarabune Regatta,S16MY264,05/01/2016 12:00:00 AM,05/03/2016 12:00:00 AM,,South Lake Union,3;7,West,Seattle Yacht Club,150.0
+04/26/2016 12:00:00 AM,Complete,Special Event,Commercial,,Julia's Broadway Pride Event,S16JU265,06/25/2016 12:00:00 AM,06/26/2016 12:00:00 AM,,Capitol Hill,3,East,Julia's on Broadway,120.0
+04/27/2016 12:00:00 AM,Complete,Special Event,Community,,Craig Wilson Queen Anne Days Kiddies Parade,S16JY266,07/09/2016 12:00:00 AM,07/09/2016 12:00:00 AM,,Queen Anne,4,West,The Queen Anne Chamber of Commerce,160.0
+04/27/2016 12:00:00 AM,Complete,Special Event,Commercial,,Outlines,S16JY267,07/01/2016 12:00:00 AM,07/01/2016 12:00:00 AM,,Sodo,2,South,Upper Left,1600.0
+04/28/2016 12:00:00 AM,Complete,Special Event,Community,,Block Party @ The Station,S16JU270,06/18/2016 12:00:00 AM,06/18/2016 12:00:00 AM,,Beacon Hill,2,South,Beacon Arts,312.0
+04/28/2016 12:00:00 AM,Complete,Special Event,Community,,Big Day Of Play,S16AU271,08/13/2016 12:00:00 AM,08/13/2016 12:00:00 AM,,Rainier Valley,2,South,City of Seattle Parks and Recreation Department,2500.0
+04/28/2016 12:00:00 AM,Complete,Special Event,Community,,SLU Saturday Market,S16MY272,05/14/2016 12:00:00 AM,09/24/2016 12:00:00 AM,,South Lake Union,7,West,NW Market Places,1005.0
+04/29/2016 12:00:00 AM,Complete,Special Event,Commercial,,Fuel Outdoor Beer Garden (6.2),S16JU273,06/02/2016 12:00:00 AM,06/02/2016 12:00:00 AM,,Sodo,7,South,Fuel Sports Eats and Beats,420.0
+05/04/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Chihuly Boat House (6.18),S16JU280,06/18/2016 12:00:00 AM,06/18/2016 12:00:00 AM,,Wallingford,4,North,Red Carpet Valet,200.0
+05/04/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Seattle Children's Theater,S16MY281,05/16/2016 12:00:00 AM,05/16/2016 12:00:00 AM,,Queen Anne,7,West,Red Carpet Valet,175.0
+05/04/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Zoe Events,S16JU282,06/02/2016 12:00:00 AM,06/02/2016 12:00:00 AM,,Capitol Hill,3,East,Red Carpet Valet,25.0
+05/04/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Jewish Federation,S16MY283,05/19/2016 12:00:00 AM,05/19/2016 12:00:00 AM,,First Hill,3,East,Red Carpet Valet,70.0
+05/04/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - The Sanctuary,S16MY284,05/21/2016 12:00:00 AM,05/21/2016 12:00:00 AM,,West Seattle,1,Southwest,Red Carpet Valet,80.0
+11/17/2016 12:00:00 AM,Complete,Special Event,Community,,SOURCE_NYE,S16DE517,12/31/2016 12:00:00 AM,12/31/2016 12:00:00 AM,,Sodo,2,West,Upper Left,1000.0
+04/27/2016 12:00:00 AM,Complete,Special Event,Community,,Magnolia Village Car Show,S16AU268,08/13/2016 12:00:00 AM,08/13/2016 12:00:00 AM,,Magnolia,7,West,Werner's Crash Shop/Magnolia Chamber of Commerce,880.0
+04/28/2016 12:00:00 AM,Complete,Special Event,Commercial,,Sunset Supper at Pike Place Market,S16AU269,08/12/2016 12:00:00 AM,08/12/2016 12:00:00 AM,,Downtown,7,West,Market Foundation,1600.0
+11/17/2016 12:00:00 AM,Complete,Special Event,Free Speech,,"Our Lady of Guadalupe, Mother of the Americas Celebration",S16DE518,12/03/2016 12:00:00 AM,12/03/2016 12:00:00 AM,,Central District,3,East,Catholic Corporation of the Archdiocese of Seattle,1060.0
+11/28/2016 12:00:00 AM,Complete,Special Event,Free Speech,,Seattle Women March Against Hate,S16DE519,12/03/2016 12:00:00 AM,12/03/2016 12:00:00 AM,,Capitol Hill,3,East,,2030.0
+11/29/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Paramount Theater,S16DE520,12/02/2016 12:00:00 AM,12/02/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,100.0
+12/05/2016 12:00:00 AM,In Process,Valet Parking,,,Butler Valet - Memorial - The Ruins,S16DE521,12/07/2016 12:00:00 AM,12/07/2016 12:00:00 AM,,Queen Anne,7,West,Butler Valet,150.0
+12/05/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Luncheon - The Ruins,S16DE522,12/09/2016 12:00:00 AM,12/09/2016 12:00:00 AM,,Queen Anne,7,West,Butler Valet,100.0
+12/05/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Holiday Party - The Foundry by Herban Feast,S16DE523,12/09/2016 12:00:00 AM,12/09/2016 12:00:00 AM,,Sodo,2,West,Butler Valet,250.0
+12/05/2016 12:00:00 AM,Complete,Valet Parking,,,Butler Valet - Waste Management - The Foundry by Herban Feast,S16DE524,12/08/2016 12:00:00 AM,12/08/2016 12:00:00 AM,,Sodo,2,West,Butler Valet,200.0
+12/06/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Axis Pioneer Square,S16DE525,12/14/2016 12:00:00 AM,12/14/2016 12:00:00 AM,,Pioneer Square,7,West,Red Carpet Valet,75.0
+12/06/2016 12:00:00 AM,Complete,Valet Parking,,,Red Carpet Valet - Showbox Seattle,S16DE526,12/17/2016 12:00:00 AM,12/17/2016 12:00:00 AM,,Downtown,7,West,Red Carpet Valet,60.0
+12/06/2016 12:00:00 AM,Complete,Special Event,Community,,SLU Winter Market,S16DE527,12/15/2016 12:00:00 AM,12/15/2016 12:00:00 AM,,South Lake Union,3,West,Amazon Global Real Estate and Facilities / Urban Craft Uprising,780.0
+12/12/2016 12:00:00 AM,In Process,Special Event,Citywide,,MLS Cup Championship March and Rally,S16DE528,12/13/2016 12:00:00 AM,12/13/2016 12:00:00 AM,,Downtown,7,West,Seattle Sounders FC,23300.0
+12/16/2016 12:00:00 AM,Complete,Special Event,Free Speech,,March for Aleppo,S16DE529,12/16/2016 12:00:00 AM,12/16/2016 12:00:00 AM,,Downtown,7,West,Americans for Refugees and Immigrants,275.0
