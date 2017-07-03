@@ -43,8 +43,8 @@ y_pred_train_1 = model_1.predict(X_train_1)
 p_pred_train_1 = model_1.predict_proba(X_train_1)[:, 1]
 
 # Evaluate model
-# baseline: always predict most common class
-p_baseline_test = [1]*len(y_test)
+# baseline: always predict the average
+p_baseline_test = [y_train.mean()]*len(y_test)
 auc_baseline = roc_auc_score(y_test, p_baseline_test)
 print(auc_baseline)  # 0.5
 y_pred_test_1 = model_1.predict(X_test_1)
