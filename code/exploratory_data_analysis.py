@@ -230,20 +230,9 @@ print(df_train.attendance.describe())
 # 50%         640.000000
 # 75%        1800.000000
 # max      204000.000000
-# Histogram of Attendance:
-x = df_train.attendance[df_train.attendance > 0]
-n, bins, patches = plt.hist(x, 50, edgecolor='black', facecolor='gray', alpha=0.75)
-plt.xlabel('Attendance')
-plt.ylabel('# Events')
-plt.title('Histogram of Attendance - Raw Scale')
-plt.show()
-# Histogram of Log(Attendance):
-x = np.log(x)
-n, bins, patches = plt.hist(x, 50, edgecolor='black', facecolor='gray', alpha=0.75)
-plt.xlabel('Log(Attendance)')
-plt.ylabel('# Events')
-plt.title('Histogram of Attendance - Log Scale')
-plt.show()
+# Histograms
+df_train.attendance.plot(kind='hist', title='Histogram of Attendance')
+np.log(df_train.attendance).plot(kind='hist', title='Histogram of Log Attendance')
 # Comments:
 # - few missing values
 # - better on log-scale
